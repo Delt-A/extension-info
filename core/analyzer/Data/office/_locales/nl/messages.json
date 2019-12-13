@@ -1,0 +1,462 @@
+{
+  "AppName": {
+    "message": "Office"
+  },
+  "AppShortName": {
+    "message": "Office"
+  },
+  "AppNameEdge": {
+    "message": "Office-browseruitbreiding"
+  },
+  "AppFolderName": {
+    "message": "Office-uitbreiding"
+  },
+  "AppDescription": {
+    "message": "Bekijk, bewerk en maak Office-bestanden in de browser."
+  },
+  "AppLongDescription": {
+    "message": "Gebouwd voor Chrome: gebruik Word, Excel, PowerPoint, OneNote en Sway Online zonder eerst Office te installeren.\r\n\r\nVol zelfvertrouwen creëren: gebruik de bekende opties voor opmaak en lay-out om vol vertrouwen uw ideeën naar buiten te brengen.\r\n\r\nOnderweg werken: open uw bestanden vanaf elke willekeurige locatie dankzij de integratie met OneDrive en OneDrive voor Bedrijven.\r\n\r\nAls u de toepassing installeert, gaat u akkoord met deze voorwaarden: http://aka.ms/officechromeextensionterms\r\n\r\nPrivacybeleid: http://aka.ms/privacy\r\n"
+  },
+  "AppLongDescriptionEdge": {
+    "message": "Met de browserextensie voor Office wordt een pictogram op de werkbalk van Microsoft Edge geplaatst waarmee u rechtstreeks toegang hebt tot uw Office-bestanden, of deze nu online of op uw computer zijn opgeslagen.\r\n\r\nMet de webextensie voor Office kunt u bestanden openen die zijn opgeslagen in OneDrive en OneDrive voor Bedrijven.\r\n\r\nU krijgt rechtstreeks in de browser toegang tot de functies van Word, Excel, PowerPoint, OneNote en Sway, zonder dat u Office hoeft te installeren.\r\n\r\nDoor de app te installeren, gaat u akkoord met deze voorwaarden en bepalingen: \r\n\r\n"
+  },
+  "AppTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "BrowseToOpenLabel": {
+    "message": "Uploaden en openen..."
+  },
+  "UploadToOneDriveLabel": {
+    "message": "Uploaden naar OneDrive"
+  },
+  "UploadToOneDriveBusinessLabel": {
+    "message": "Uploaden naar OneDrive voor Bedrijven"
+  },
+  "AppListLabel": {
+    "message": "Web-apps"
+  },
+  "RecentDocsLabel": {
+    "message": "Recent"
+  },
+  "CreateDocsMessageLabel": {
+    "message": "Geen onlangs bekeken documenten."
+  },
+  "DocumentsNotFoundMessageLabel": {
+    "message": "Er kan momenteel geen lijst met recente documenten worden opgehaald."
+  },
+  "LoadingRecentsLabel": {
+    "message": "Laden..."
+  },
+  "CreateNewLabel": {
+    "message": "Nieuw"
+  },
+  "OfflineLabel": {
+    "message": "U bent offline. Maak opnieuw verbinding om de Office-browseruitbreiding voor Chrome te gebruiken."
+  },
+  "OpenDocumentLabel": {
+    "message": "Openen"
+  },
+  "AccountLabel": {
+    "message": "Account"
+  },
+  "UsernameLabel": {
+    "message": "Niet aangemeld"
+  },
+  "SettingsLabel": {
+    "message": "Instellingen"
+  },
+  "ExcelAppName": {
+    "message": "Excel"
+  },
+  "ExcelOnlineAppName": {
+    "message": "Excel"
+  },
+  "OneDriveAppName": {
+    "message": "OneDrive"
+  },
+  "SharePointAppName": {
+    "message": "SharePoint"
+  },
+  "SharePointSiteAppName": {
+    "message": "SharePoint"
+  },
+  "OutlookAppName": {
+    "message": "Outlook"
+  },
+  "TeamsAppName": {
+    "message": "Teams"
+  },
+  "OneDriveFilesLabel": {
+    "message": "Van OneDrive"
+  },
+  "O365FilesLabel": {
+    "message": "Van OneDrive voor Bedrijven"
+  },
+  "OneNoteAppName": {
+    "message": "OneNote"
+  },
+  "OneNoteOnlineAppName": {
+    "message": "OneNote"
+  },
+  "PowerPointAppName": {
+    "message": "PowerPoint"
+  },
+  "PowerPointOnlineAppName": {
+    "message": "PowerPoint"
+  },
+  "SignInLabel": {
+    "message": "Aanmelden"
+  },
+  "SignInMSALabel": {
+    "message": "Meld u aan met een Microsoft-account"
+  },
+  "SignInO365Label": {
+    "message": "Meld u aan met een werk- of schoolaccount"
+  },
+  "SignOutLabel": {
+    "message": "Afmelden"
+  },
+  "CreateAccountLabel": {
+    "message": "Account maken"
+  },
+  "SwayAppName": {
+    "message": "Sway"
+  },
+  "TelemetrySettingLabel": {
+    "message": "Automatisch gegevens verzenden om ons te helpen onze producten te verbeteren."
+  },
+  "WebRedirectSettingLabel": {
+    "message": "Open Office-bestanden rechtstreeks in de browser met Office."
+  },
+  "MoreFilesLabel": {
+    "message": "Meer documenten"
+  },
+  "WordAppName": {
+    "message": "Word"
+  },
+  "WordOnlineAppName": {
+    "message": "Word"
+  },
+  "SignInHeaderLabel": {
+    "message": "Waar wilt u uw bestanden opslaan?"
+  },
+  "NextLabel": {
+    "message": "Aanmelden"
+  },
+  "CopyrightLabel": {
+    "message": "Microsoft Corporation 2015"
+  },
+  "FileTypeErrorMessage": {
+    "message": "Het bestandstype wordt niet ondersteund. Kies een document van Word, Excel of PowerPoint."
+  },
+  "FeedbackCommentPlaceholder": {
+    "message": "Typ uw opmerking"
+  },
+  "FeedbackDontLike": {
+    "message": "Er is iets dat ik niet leuk vind"
+  },
+  "FeedbackOverall": {
+    "message": "Wat voor soort feedback hebt u?"
+  },
+  "FeedbackTitle": {
+    "message": "Feedback verzenden"
+  },
+  "FeedbackLike": {
+    "message": "Ik vind iets leuk"
+  },
+  "FeedbackPrivacyStatement": {
+    "message": "Privacyverklaring"
+  },
+  "FeedbackSubmit": {
+    "message": "Verzenden"
+  },
+  "FeedbackSuggestion": {
+    "message": "Ik heb een suggestie"
+  },
+  "FeedbackWhatLike": {
+    "message": "Wat beviel u?"
+  },
+  "FeedbackWhatDontLike": {
+    "message": "Wat beviel u niet?"
+  },
+  "FeedbackWhatSuggest": {
+    "message": "Wat wilt u voorstellen?"
+  },
+  "NotificationFileAccess": {
+    "message": "Selecteer in de instellingen van de Chrome-uitbreiding het selectievakje voor het toestaan van toegang tot bestands-URL's als u bestanden wilt kunnen slepen en neerzetten in Chrome."
+  },
+  "NotificationFileMaxSizeByteLimitReached": {
+    "message": "Office browser-extensie is uw kan document niet openen vanwege de grootte.  Neem rechtstreeks uploaden naar OneDrive om het document te openen."
+  },
+  "NotificationFileUploadFailureGeneric": {
+    "message": "We konden het bestand niet openen."
+  },
+  "NotificationFileUploadFailureServer": {
+    "message": "We konden het bestand niet openen. Probeer het later opnieuw."
+  },
+  "NotificationFileUploadFailureUnsupportedMedia": {
+    "message": "We konden het bestand niet openen. Kies een bestand dat gemaakt is met Word, Excel of PowerPoint"
+  },
+  "NotificationFileUploadInProgress": {
+    "message": "We zijn bezig met het uploaden van uw document(en)."
+  },
+  "NotificationSetDefault": {
+    "message": "Tik in de app bestanden op documenten met twee vingers met Office te openen."
+  },
+  "NotificationAutoSaveToOneDrive": {
+    "message": "Het bestand is opgeslagen in de map Office-uitbreiding in uw OneDrive-account."
+  },
+  "NotificationAutoSaveToSharePoint": {
+    "message": "We het bestand opgeslagen in de map 'Office-extensie' op de OneDrive voor bedrijven."
+  },
+  "NotificationAutoSaveButton": {
+    "message": "Niet opnieuw weergeven"
+  },
+  "NotificationNotSignedIn": {
+    "message": "Meld u aan bij de uitbreiding om bestanden weer te geven en te bewerken in de webversie van Office."
+  },
+  "NotificationUnsupportedFileType": {
+    "message": "Kies een bestand dat is gemaakt met Word, Excel of PowerPoint."
+  },
+  "NotificationInvalidSubscription": {
+    "message": "Uw abonnement op Office 365 kan zijn verlopen of exclusief OneDrive voor Bedrijven zijn. Controleer uw abonnement of meld u aan met een Microsoft-account."
+  },
+  "NotificationWebDocRedirect": {
+    "message": "Het document wordt met de Office-extensie geopend in de browser"
+  },
+  "NotificationWebDocRedirectButton": {
+    "message": "Niet opnieuw weergeven"
+  },
+  "OfficeOnlineAppName": {
+    "message": "Office"
+  },
+  "ShareMessage": {
+    "message": "Delen"
+  },
+  "SharePermissionsTooltip": {
+    "message": "U hebt geen toestemming om te delen"
+  },
+  "SharePermissionsErrorMessage": {
+    "message": "Toestemming vereist"
+  },
+  "SupportPageLabel": {
+    "message": "Hebt u hulp nodig bij het aanmelden?"
+  },
+  "MyAccountLabel": {
+    "message": "Mijn account weergeven"
+  },
+  "EditorSpellingToggleLabel": {
+    "message": "Spelling"
+  },
+  "EditorGrammarToggleLabel": {
+    "message": "Grammatica"
+  },
+  "EditorRefinementsToggleLabel": {
+    "message": "Verfijningen"
+  },
+  "DisableEditorOnThisSiteLabel": {
+    "message": "Editor uitschakelen voor $host$",
+    "placeholders": {
+      "host": {
+        "content": "$ 1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EnableEditorOnThisSiteLabel": {
+    "message": "Editor inschakelen voor $host$",
+    "placeholders": {
+      "host": {
+        "content": "$ 1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsDisabledOnThisSiteLabel": {
+    "message": "Editor is momenteel uitgeschakeld voor $host$",
+    "placeholders": {
+      "host": {
+        "content": "$ 1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsBlockedOnThisSiteLabel": {
+    "message": "Editor wordt momenteel niet ondersteund voor $host$",
+    "placeholders": {
+      "host": {
+        "content": "$ 1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorPreviewLabel": {
+    "message": "(Preview)"
+  },
+  "ebx_appName": {
+    "message": "Editor in de browser"
+  },
+  "ebx_appShortName": {
+    "message": "Editor"
+  },
+  "ebx_appDescription": {
+    "message": "Laat uw spelling, grammatica en stijl controleren in de browser op de meeste websites, terwijl u typt."
+  },
+  "ebx_appDescriptionWithOffice": {
+    "message": "Bekijk, bewerk en maak Office-bestanden in de browser en krijg spelling, Grammatica & stijlcontrole terwijl u typt op de meeste websites."
+  },
+  "ebx_appLongDescription": {
+    "message": "Editor is uw schrijfassistent - Met Editor worden problemen met spelling, grammatica en stijl respectievelijk rood, blauw of goud onderstreept. Beweeg de muisaanwijzer over het onderstreepte woord en kies de suggestie die u wilt, of lees meer over de fout en hoe u deze kunt corrigeren.\r\n\r\nMet vertrouwen creëren - Editor biedt Office 365-abonnees verbeterde taalprogramma's. Achter de schermen worden met Intelligente services problemen met spelling, grammatica en stijl geïdentificeerd.\r\n\r\nDoor de app te installeren gaat u akkoord met deze voorwaarden: https://aka.ms/editorchromeextensionterms\r\n\r\nPrivacybeleid: https://aka.ms/privacy\r\n"
+  },
+  "ebx_appLongDescriptionEdge": {
+    "message": "Editor wordt een pictogram op de werkbalk van Microsoft Edge kunnen geavanceerde controle geplaatst.\r\n\r\nDe app installeren, gaat u akkoord met deze voorwaarden en bepalingen: \r\n\r\n"
+  },
+  "ebx_appTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office Online software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "ebx_copyrightLabel": {
+    "message": "Microsoft Corporation 2019"
+  },
+  "ebx_office365": {
+    "message": "Office 365"
+  },
+  "ebx_optionsPageTitle": {
+    "message": "Instellingen voor editor"
+  },
+  "ebx_settings": {
+    "message": "Instellingen"
+  },
+  "ebx_proofingLanguage": {
+    "message": "Controletaal"
+  },
+  "ebx_proofingLanguagePlaceHolder": {
+    "message": "Controletaal selecteren"
+  },
+  "ebx_saveButtonCaption": {
+    "message": "Opslaan"
+  },
+  "ebx_cancelButtonCaption": {
+    "message": "Annuleren"
+  },
+  "ebx_userExcludedUrlsTextBoxCaption": {
+    "message": "U hebt controleren uitgeschakeld op de sites die hieronder worden vermeld. Editor kan automatisch worden uitgeschakeld op extra sites met gevoelige inhoud of trage laadsnelheden."
+  },
+  "ebx_userBlockedSites": {
+    "message": "Geblokkeerde sites"
+  },
+  "ebx_userExcludedUrlsErrorCaption": {
+    "message": "Ongeldige URL $url$ op regel $line$.",
+    "placeholders": {
+      "url": {
+        "content": "$ 1",
+        "example": "https://microsoft.com"
+      },
+      "line": {
+        "content": "$ 2",
+        "example": "123"
+      }
+    }
+  },
+  "ebx_userExcludedUrlErrorCaption": {
+    "message": "Ongeldige URL"
+  },
+  "ebx_showSpellingAndGrammarToggleCaption": {
+    "message": "Suggesties voor spelling en grammatica weergeven"
+  },
+  "ebx_showSynonymsToggleCaption": {
+    "message": "Synoniemen weergeven voor spellingsuggesties"
+  },
+  "ebx_comingSoonTooltipTitle": {
+    "message": "Binnenkort beschikbaar"
+  },
+  "ebx_changeAllCommandLabel": {
+    "message": "Alles wijzigen"
+  },
+  "ebx_changeSettingsCommandLabel": {
+    "message": "Instellingen voor editor"
+  },
+  "ebx_moreButtonArialLabel": {
+    "message": "Meer opdrachten"
+  },
+  "ebx_ignoreAllButtonLabel": {
+    "message": "Alles negeren"
+  },
+  "ebx_suggestionMoreActionsArialLabel": {
+    "message": "Meer acties"
+  },
+  "ebx_brandText": {
+    "message": "Microsoft Editor"
+  },
+  "ebx_brandTextArialLabel": {
+    "message": "Logo van Microsoft Editor"
+  },
+  "ebx_brandTextTooltipTitle": {
+    "message": "Taalprogramma's mogelijk gemaakt met Office"
+  },
+  "ebx_brandTextBrandName": {
+    "message": "Office"
+  },
+  "ebx_showSynonyms": {
+    "message": "Synoniemen weergeven"
+  },
+  "ebx_hideSynonyms": {
+    "message": "Synoniemen verbergen"
+  },
+  "ebx_ariaReplaceWith": {
+    "message": "Vervangen door"
+  },
+  "ebx_deleteRepeatedWord": {
+    "message": "[Herhaald woord verwijderen]"
+  },
+  "ebx_asInSynonyms": {
+    "message": "zoals in"
+  },
+  "ebx_goPremiumLine": {
+    "message": "Probeer de geavanceerde schrijfideeën van Editor."
+  },
+  "ebx_goPremiumLinkText": {
+    "message": "Premium-abonnement aanschaffen"
+  },
+  "ebx_checkSpelling": {
+    "message": "Spelling controleren"
+  },
+  "ebx_checkGrammar": {
+    "message": "Grammatica controleren"
+  },
+  "ebx_checkForRefinements": {
+    "message": "Controleren op verfijningen"
+  },
+  "ebx_addAnotherSite": {
+    "message": "Andere site toevoegen"
+  },
+  "ebx_goPremiumExplained": {
+    "message": "Krijg de geavanceerde schrijf ideeën van de editor, 1 TB aan OneDrive-opslag en Premium functies in alle Office 365-apps."
+  },
+  "ebx_addAnotherSiteAriaLabel": {
+    "message": "Editor blokkeren op een andere site"
+  },
+  "ebx_addAnotherSiteSubmit": {
+    "message": "Site toevoegen aan de lijst met geblokkeerde sites"
+  },
+  "ebx_addAnotherSiteCancel": {
+    "message": "Annuleer het toevoegen van de site aan de lijst met geblokkeerde sites."
+  },
+  "ebx_RemoveItem": {
+    "message": "Verwijderen"
+  },
+  "ebx_duplicateBlockedSite": {
+    "message": "Deze site komt al voor in de lijst met geblokkeerde sites"
+  },
+  "ebx_editorEnableAnnouncementTitle": {
+    "message": "Welkom bij de Office-browserextensie"
+  },
+  "ebx_editorEnableAnnouncementText": {
+    "message": "Met de Office-browserextensie kunt u Office-bestanden bekijken, bewerken en maken in de browser. De extensie bevat ook het Editor-schrijfprogramma dat op de meeste websites spelling-, grammatica- en stijlcontroles mogelijk maakt terwijl u typt."
+  },
+  "ebx_editorEnableAnnouncementSettings": {
+    "message": "Ga naar de Editor-instellingen"
+  },
+  "ebx_feedbackSendTo": {
+    "message": "Editor is beschikbaar als een interne Microsoft-preview. Stuur feedback en bugs naar "
+  }
+}

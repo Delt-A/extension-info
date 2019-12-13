@@ -1,0 +1,462 @@
+{
+  "AppName": {
+    "message": "Office"
+  },
+  "AppShortName": {
+    "message": "Office"
+  },
+  "AppNameEdge": {
+    "message": "Utvidelse for Office-leser"
+  },
+  "AppFolderName": {
+    "message": "Office-utvidelse"
+  },
+  "AppDescription": {
+    "message": "Vis, rediger og opprett Office-dokumenter i nettleseren."
+  },
+  "AppLongDescription": {
+    "message": "Utviklet for Chrome – bruk Word, Excel, PowerPoint, OneNote og Sway Online uten å installere Office.\r\n\r\nProblemfri oppretting – med velkjente alternativer for formatering og oppsett kan du uttrykke ideene dine i klartekst.\r\n\r\nArbeid på farten – få tilgang til filene dine uansett hvor du er, takket være integrasjon med OneDrive og OneDrive for Business.\r\n\r\nNår du installerer appen, godtar du de følgende vilkårene og betingelsene: http://aka.ms/officechromeextensionterms\r\n\r\nPersonvernerklæring: http://aka.ms/privacy\r\n"
+  },
+  "AppLongDescriptionEdge": {
+    "message": "Office-leserutvidelsen legger til et ikon på Microsoft Edge-verktøylinjen som gir deg direkte tilgang til Office-filene dine enten de er lagret på nettet eller på datamaskinen.\r\n\r\nDu kan bruke Office-nettutvidelsen til å åpne filer som er lagret i OneDrive og OneDrive for Business.\r\n\r\nDu får funksjonene i Word, Excel, PowerPoint, OneNote og Sway direkte i nettleseren uten at Office må være installert.\r\n\r\nVed å installere appen godtar du følgende vilkår og betingelser: \r\n\r\n"
+  },
+  "AppTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "BrowseToOpenLabel": {
+    "message": "Last opp og åpne..."
+  },
+  "UploadToOneDriveLabel": {
+    "message": "Last opp til OneDrive"
+  },
+  "UploadToOneDriveBusinessLabel": {
+    "message": "Last opp til OneDrive for bedrifter"
+  },
+  "AppListLabel": {
+    "message": "Nettapper"
+  },
+  "RecentDocsLabel": {
+    "message": "Nyeste"
+  },
+  "CreateDocsMessageLabel": {
+    "message": "Ingen nylig viste dokumenter."
+  },
+  "DocumentsNotFoundMessageLabel": {
+    "message": "Vi kan ikke hente listen over nylig brukte dokumenter akkurat nå."
+  },
+  "LoadingRecentsLabel": {
+    "message": "Laster inn ..."
+  },
+  "CreateNewLabel": {
+    "message": "Ny"
+  },
+  "OfflineLabel": {
+    "message": "Du er frakoblet. Du må koble til for å bruke Office-utvidelsen for Chrome."
+  },
+  "OpenDocumentLabel": {
+    "message": "Åpne"
+  },
+  "AccountLabel": {
+    "message": "Konto"
+  },
+  "UsernameLabel": {
+    "message": "Ikke pålogget"
+  },
+  "SettingsLabel": {
+    "message": "Innstillinger"
+  },
+  "ExcelAppName": {
+    "message": "Excel"
+  },
+  "ExcelOnlineAppName": {
+    "message": "Excel"
+  },
+  "OneDriveAppName": {
+    "message": "OneDrive"
+  },
+  "SharePointAppName": {
+    "message": "SharePoint"
+  },
+  "SharePointSiteAppName": {
+    "message": "SharePoint"
+  },
+  "OutlookAppName": {
+    "message": "Outlook"
+  },
+  "TeamsAppName": {
+    "message": "Teams"
+  },
+  "OneDriveFilesLabel": {
+    "message": "Fra OneDrive"
+  },
+  "O365FilesLabel": {
+    "message": "Fra OneDrive for Business"
+  },
+  "OneNoteAppName": {
+    "message": "OneNote"
+  },
+  "OneNoteOnlineAppName": {
+    "message": "OneNote"
+  },
+  "PowerPointAppName": {
+    "message": "PowerPoint"
+  },
+  "PowerPointOnlineAppName": {
+    "message": "PowerPoint"
+  },
+  "SignInLabel": {
+    "message": "Logg på"
+  },
+  "SignInMSALabel": {
+    "message": "Logg på med en Microsoft-konto"
+  },
+  "SignInO365Label": {
+    "message": "Logg på med en jobb- eller skolekonto"
+  },
+  "SignOutLabel": {
+    "message": "Logg av"
+  },
+  "CreateAccountLabel": {
+    "message": "Opprett en konto"
+  },
+  "SwayAppName": {
+    "message": "Sway"
+  },
+  "TelemetrySettingLabel": {
+    "message": "Send data automatisk for å hjelpe oss med å forbedre produktene våre."
+  },
+  "WebRedirectSettingLabel": {
+    "message": "Åpne Office-filer direkte i nettleseren med Office."
+  },
+  "MoreFilesLabel": {
+    "message": "Flere dokumenter"
+  },
+  "WordAppName": {
+    "message": "Word"
+  },
+  "WordOnlineAppName": {
+    "message": "Word"
+  },
+  "SignInHeaderLabel": {
+    "message": "Hvor vil du lagre filene?"
+  },
+  "NextLabel": {
+    "message": "Logg på"
+  },
+  "CopyrightLabel": {
+    "message": "Microsoft Corporation 2015"
+  },
+  "FileTypeErrorMessage": {
+    "message": "Filtypen støttes ikke. Velg et Word-, Excel- eller PowerPoint-dokument."
+  },
+  "FeedbackCommentPlaceholder": {
+    "message": "Skriv inn kommentaren"
+  },
+  "FeedbackDontLike": {
+    "message": "Jeg misliker noe"
+  },
+  "FeedbackOverall": {
+    "message": "Hvilken type tilbakemelding har du?"
+  },
+  "FeedbackTitle": {
+    "message": "Send tilbakemelding"
+  },
+  "FeedbackLike": {
+    "message": "Jeg liker noe"
+  },
+  "FeedbackPrivacyStatement": {
+    "message": "Personvernerklæring"
+  },
+  "FeedbackSubmit": {
+    "message": "Send"
+  },
+  "FeedbackSuggestion": {
+    "message": "Jeg har et forslag"
+  },
+  "FeedbackWhatLike": {
+    "message": "Hva likte du?"
+  },
+  "FeedbackWhatDontLike": {
+    "message": "Hva mislikte du?"
+  },
+  "FeedbackWhatSuggest": {
+    "message": "Hva vil du foreslå?"
+  },
+  "NotificationFileAccess": {
+    "message": "Hvis du vil dra og slippe filer i Chrome, merker du av for «Tillat tilgang til fil-URL-adresser» i innstillingene for Chrome-utvidelsen."
+  },
+  "NotificationFileMaxSizeByteLimitReached": {
+    "message": "Office Browser-utvidelsen kan ikke åpne dokumentet på grunn av størrelsen.  Last opp direkte til OneDrive for å åpne dokumentet."
+  },
+  "NotificationFileUploadFailureGeneric": {
+    "message": "Beklager, vi kan ikke åpne filen."
+  },
+  "NotificationFileUploadFailureServer": {
+    "message": "Beklager, vi kan ikke åpne filen.  Prøv på nytt senere."
+  },
+  "NotificationFileUploadFailureUnsupportedMedia": {
+    "message": "Beklager, vi kan ikke åpne filen.  Velg en fil som er opprettet i Word, Excel eller PowerPoint"
+  },
+  "NotificationFileUploadInProgress": {
+    "message": "Vi laster opp dokumentene dine."
+  },
+  "NotificationSetDefault": {
+    "message": "I Filer-appen kan du trykke dokumenter med to fingre for å åpne dem med Office."
+  },
+  "NotificationAutoSaveToOneDrive": {
+    "message": "Filen er lagret i mappen «Office-utvidelse» i OneDrive."
+  },
+  "NotificationAutoSaveToSharePoint": {
+    "message": "Filen er lagret i mappen «Office-utvidelse» i OneDrive for Business."
+  },
+  "NotificationAutoSaveButton": {
+    "message": "Ikke vis dette på nytt"
+  },
+  "NotificationNotSignedIn": {
+    "message": "Logg på utvidelsen for å vise og redigere filer i Office på nettet."
+  },
+  "NotificationUnsupportedFileType": {
+    "message": "Velg en fil som er opprettet i Word, Excel eller PowerPoint."
+  },
+  "NotificationInvalidSubscription": {
+    "message": "Office 365-abonnementet har kanskje utløpt, eventuelt inkluderer det ikke OneDrive for Business. Kontroller abonnementet, eller logg på med en Microsoft-konto i stedet."
+  },
+  "NotificationWebDocRedirect": {
+    "message": "Office-filtypen åpner dokumentet i nettleseren"
+  },
+  "NotificationWebDocRedirectButton": {
+    "message": "Ikke vis dette på nytt"
+  },
+  "OfficeOnlineAppName": {
+    "message": "Office"
+  },
+  "ShareMessage": {
+    "message": "Del"
+  },
+  "SharePermissionsTooltip": {
+    "message": "Du har ikke tillatelse til å dele"
+  },
+  "SharePermissionsErrorMessage": {
+    "message": "Tillatelse nødvendig"
+  },
+  "SupportPageLabel": {
+    "message": "Trenger du hjelp til å logge på?"
+  },
+  "MyAccountLabel": {
+    "message": "Vis Min konto"
+  },
+  "EditorSpellingToggleLabel": {
+    "message": "Spelling"
+  },
+  "EditorGrammarToggleLabel": {
+    "message": "Grammar"
+  },
+  "EditorRefinementsToggleLabel": {
+    "message": "Refinements"
+  },
+  "DisableEditorOnThisSiteLabel": {
+    "message": "Disable Editor on $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EnableEditorOnThisSiteLabel": {
+    "message": "Enable Editor on $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsDisabledOnThisSiteLabel": {
+    "message": "Editor is currently disabled on $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsBlockedOnThisSiteLabel": {
+    "message": "Editor is not currently supported on $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorPreviewLabel": {
+    "message": "(Preview)"
+  },
+  "ebx_appName": {
+    "message": "Redigering i nettleseren"
+  },
+  "ebx_appShortName": {
+    "message": "Redigering"
+  },
+  "ebx_appDescription": {
+    "message": "Få stavekontroll, grammatikkontrollen med en stil kontroll i leseren mens du skriver på de fleste nett steder."
+  },
+  "ebx_appDescriptionWithOffice": {
+    "message": "Vis, Rediger og Opprett Office-filer i nett leseren og få stavekontroll, grammatikkontrollen & Style kontroller mens du skriver på de fleste nett steder."
+  },
+  "ebx_appLongDescription": {
+    "message": "Redaktør er din skriveassistent – Redaktør markerer problemer henholdsvis med rød, blå eller gull understreking for staving, grammatikk og stilistiske problemer. Hold markøren over det understrekede ordet, og velg deretter ønsket forslag, eller finn ut mer om feilen og hvordan du løser den.\r\n\r\nFøl deg trygg på det du lager – Redaktør gir forbedrede korrekturverktøy for Office 365-abonnenter. I kulissene er det intelligente tjenester som identifiserer stave-, grammatikk- og stilistiske problemer.\r\n\r\nVed å installere appen godtar du følgende vilkår og betingelser: https://aka.ms/editorchromeextensionterms\r\n\r\nPersonvernpolicy: https://aka.ms/privacy\r\n"
+  },
+  "ebx_appLongDescriptionEdge": {
+    "message": "Redigeringsprogrammet plasserer et ikon på Microsoft Edge-verktøylinjen som muliggjør avansert korrektur.\r\n\r\nVed å installere appen, godtar du følgende vilkår og betingelser: \r\n\r\n"
+  },
+  "ebx_appTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office Online software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "ebx_copyrightLabel": {
+    "message": "Microsoft Corporation 2019"
+  },
+  "ebx_office365": {
+    "message": "Office 365"
+  },
+  "ebx_optionsPageTitle": {
+    "message": "Innstillinger for redigering"
+  },
+  "ebx_settings": {
+    "message": "Innstillinger"
+  },
+  "ebx_proofingLanguage": {
+    "message": "Korrekturspråk"
+  },
+  "ebx_proofingLanguagePlaceHolder": {
+    "message": "Velg et korrekturspråk"
+  },
+  "ebx_saveButtonCaption": {
+    "message": "Lagre"
+  },
+  "ebx_cancelButtonCaption": {
+    "message": "Avbryt"
+  },
+  "ebx_userExcludedUrlsTextBoxCaption": {
+    "message": "Du har deaktivert korrektur av områdene som er oppført nedenfor. Redigerings programmet kan automatisk deaktiveres på flere nett steder med sensitivt innhold eller trege innlastings hastigheter."
+  },
+  "ebx_userBlockedSites": {
+    "message": "Blokkerte nettsteder"
+  },
+  "ebx_userExcludedUrlsErrorCaption": {
+    "message": "Ugyldig URL-adresse \"$url$\" på linje $line$.",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "https://microsoft.com"
+      },
+      "line": {
+        "content": "$2",
+        "example": "123"
+      }
+    }
+  },
+  "ebx_userExcludedUrlErrorCaption": {
+    "message": "Ugyldig nettadresse"
+  },
+  "ebx_showSpellingAndGrammarToggleCaption": {
+    "message": "Vis forslag for stavekontroll og grammatikk"
+  },
+  "ebx_showSynonymsToggleCaption": {
+    "message": "Vis synonymer for forslag til staving"
+  },
+  "ebx_comingSoonTooltipTitle": {
+    "message": "Kommer snart"
+  },
+  "ebx_changeAllCommandLabel": {
+    "message": "Endre alle"
+  },
+  "ebx_changeSettingsCommandLabel": {
+    "message": "Innstillinger for redigering ..."
+  },
+  "ebx_moreButtonArialLabel": {
+    "message": "Flere kommandoer"
+  },
+  "ebx_ignoreAllButtonLabel": {
+    "message": "Ignorer alle"
+  },
+  "ebx_suggestionMoreActionsArialLabel": {
+    "message": "Flere handlinger"
+  },
+  "ebx_brandText": {
+    "message": "Microsoft Editor"
+  },
+  "ebx_brandTextArialLabel": {
+    "message": "Microsoft Editor-logo"
+  },
+  "ebx_brandTextTooltipTitle": {
+    "message": "Korrektur levert av Office"
+  },
+  "ebx_brandTextBrandName": {
+    "message": "Office"
+  },
+  "ebx_showSynonyms": {
+    "message": "Vis synonymer"
+  },
+  "ebx_hideSynonyms": {
+    "message": "Skjul synonymer"
+  },
+  "ebx_ariaReplaceWith": {
+    "message": "Erstatt med"
+  },
+  "ebx_deleteRepeatedWord": {
+    "message": "[Slett gjentatt ord]"
+  },
+  "ebx_asInSynonyms": {
+    "message": "som i"
+  },
+  "ebx_goPremiumLine": {
+    "message": "Prøv de avanserte skriveidéene i Editor."
+  },
+  "ebx_goPremiumLinkText": {
+    "message": "Velg Premium"
+  },
+  "ebx_checkSpelling": {
+    "message": "Stavekontroll"
+  },
+  "ebx_checkGrammar": {
+    "message": "Kontroller grammatikk"
+  },
+  "ebx_checkForRefinements": {
+    "message": "Se etter presiseringer"
+  },
+  "ebx_addAnotherSite": {
+    "message": "Legg til et annet område"
+  },
+  "ebx_goPremiumExplained": {
+    "message": "Få redigerings programmets avanserte skrive idéer, 1 TB OneDrive-lagringsplass og Premium-funksjoner i alle Office 365-apper."
+  },
+  "ebx_addAnotherSiteAriaLabel": {
+    "message": "Blokker redigeringsprogram på et annet område"
+  },
+  "ebx_addAnotherSiteSubmit": {
+    "message": "Legg til området i listen over blokkerte nettsteder"
+  },
+  "ebx_addAnotherSiteCancel": {
+    "message": "Avbryt å legge til området i listen over blokkerte nettsteder."
+  },
+  "ebx_RemoveItem": {
+    "message": "Fjern"
+  },
+  "ebx_duplicateBlockedSite": {
+    "message": "Dette området er allerede i listen over blokkerte områder"
+  },
+  "ebx_editorEnableAnnouncementTitle": {
+    "message": "Welcome to the Office Browser Extension"
+  },
+  "ebx_editorEnableAnnouncementText": {
+    "message": "Med Office Browser-utvidelsen kan du vise, redigere og opprette Office-filer i nett leseren. Det inkluderer også verktøy for redigering skriving som aktiverer stavekontroll, grammatikk og stil kontroll mens du skriver på de fleste nett steder."
+  },
+  "ebx_editorEnableAnnouncementSettings": {
+    "message": "Go to Editor settings"
+  },
+  "ebx_feedbackSendTo": {
+    "message": "Editor is available as a Microsoft Internal Preview. Please send feedback and bugs to "
+  }
+}

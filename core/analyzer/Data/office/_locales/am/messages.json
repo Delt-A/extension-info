@@ -1,0 +1,462 @@
+{
+  "AppName": {
+    "message": "Office"
+  },
+  "AppShortName": {
+    "message": "Office"
+  },
+  "AppNameEdge": {
+    "message": "የOffice አሳሽ ተቀጥላ"
+  },
+  "AppFolderName": {
+    "message": "የ Office ተቀጥላ"
+  },
+  "AppDescription": {
+    "message": "በአሳሽዎ ላይ የOffice ፋይሎችን ይመልከቱ፣ ያርትዑ እንዲሁም ይፍጠሩ።"
+  },
+  "AppLongDescription": {
+    "message": "ለ Chrome የተገነባ – Office መጫን ሳያስፈልግ Word፣ Excel፣ PowerPoint፣ OneNote፣ እና Sway Online ይጠቀሙ።\r\n\r\nበመተማመን ይፍጠሩ – በሙሉ ታማኝነት ሃሳብዎን ለመግለጽ የተለመዱ ቅርጸት እና የአቀማመጥ አማራጮችን ይጠቀሙ።\r\n\r\nበመሄድ ላይ እያሉ ይስሩ – ከማንኛውም ቦታ ከፋይሎችዎ ጋር ይገናኙ፣ ከ OneDrive እና OneDrive for Business ጋር ውህደት እናመሰግናለን።\r\n\r\nመተግበሪያውን በመጫንዎ፣ ከነዚህ ውሎች እና ሁኔታዎች ጋር ተስማምቷል ማለት ነው፥http://aka.ms/officechromeextensionterms\r\n\r\nየግላዊነት ፖሊሲ፥ http://aka.ms/privacy\r\n"
+  },
+  "AppLongDescriptionEdge": {
+    "message": "Office አሳሽ በኮምፒውተርዎ ላይም ሆነ በመስመር ላይ ወደተቀመጡ የOffice ፋይሎችዎ በቀጥታ ያሚያደርሱ አዶዎችን በMicrosoft Edge የመሳሪያ አሞሌ ላይ  ያስቀምጣል።\r\n\r\nOffice የድር ተቀጥላ በOneDrive እና በOneDrive  for Business ላይ የተቀመጡ ፋይሎችን ይከፍታል።\r\n\r\nየWord፣  Excel፣ PowerPoint፣ OneNote and Sway ባህርያትን Officeን መጫን ሳያስፈልግዎ በአሳሽዎ ውስጥ ያገኛሉ። \r\n\r\nመተግበሪያውን በመጫን፣ በእነዚህ ስምምነቶች እና ሁኔታዎች ይስማማሉ፦ \r\n\r\n"
+  },
+  "AppTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "BrowseToOpenLabel": {
+    "message": "ስቀል እና ክፈት..."
+  },
+  "UploadToOneDriveLabel": {
+    "message": "ወደ OneDrive ስቀል"
+  },
+  "UploadToOneDriveBusinessLabel": {
+    "message": "ወደ OneDrive for Business ስቀል"
+  },
+  "AppListLabel": {
+    "message": "የድር መተግበሪያዎች"
+  },
+  "RecentDocsLabel": {
+    "message": "የቅርብ ጊዜ"
+  },
+  "CreateDocsMessageLabel": {
+    "message": "በቅርቡ የታዩ ሰነዶች የሉም።"
+  },
+  "DocumentsNotFoundMessageLabel": {
+    "message": "የእርስዎን የቅርብ ጊዜ የሰነዶችዎን ዝርዝር በአሁኑ ጊዜ ማግኘት አልቻልንም፡፡"
+  },
+  "LoadingRecentsLabel": {
+    "message": "በመጫን ላይ..."
+  },
+  "CreateNewLabel": {
+    "message": "አዲስ"
+  },
+  "OfflineLabel": {
+    "message": "ከመስመር ውጪ ነዎት። እባክዎን ለChrome የተዘጋጀውን የOffice አሳሽ ቅጥያ ለመጠቀም እንደገና ያያይዙ።"
+  },
+  "OpenDocumentLabel": {
+    "message": "ክፈት"
+  },
+  "AccountLabel": {
+    "message": "መለያ"
+  },
+  "UsernameLabel": {
+    "message": "በምዝገባ አልገቡም"
+  },
+  "SettingsLabel": {
+    "message": "ማስተካከያ"
+  },
+  "ExcelAppName": {
+    "message": "Excel"
+  },
+  "ExcelOnlineAppName": {
+    "message": "Excel"
+  },
+  "OneDriveAppName": {
+    "message": "OneDrive"
+  },
+  "SharePointAppName": {
+    "message": "SharePoint"
+  },
+  "SharePointSiteAppName": {
+    "message": "SharePoint"
+  },
+  "OutlookAppName": {
+    "message": "Outlook"
+  },
+  "TeamsAppName": {
+    "message": "ቡድኖች"
+  },
+  "OneDriveFilesLabel": {
+    "message": "ከ OneDrive"
+  },
+  "O365FilesLabel": {
+    "message": "ከ OneDrive for Business"
+  },
+  "OneNoteAppName": {
+    "message": "OneNote"
+  },
+  "OneNoteOnlineAppName": {
+    "message": "OneNote"
+  },
+  "PowerPointAppName": {
+    "message": "PowerPoint"
+  },
+  "PowerPointOnlineAppName": {
+    "message": "PowerPoint"
+  },
+  "SignInLabel": {
+    "message": "በምዝገባ ግባ"
+  },
+  "SignInMSALabel": {
+    "message": "በ Microsoft መለያ ወይም የስራ ወይም የትምህርት ቤት መለያ መለያ ይግቡ።"
+  },
+  "SignInO365Label": {
+    "message": "በ Microsoft መለያ ወይም የስራ ወይም የትምህርት ቤት መለያ መለያ ይግቡ።"
+  },
+  "SignOutLabel": {
+    "message": "ከምዝገባ ውጣ"
+  },
+  "CreateAccountLabel": {
+    "message": "መለያ ፍጠር"
+  },
+  "SwayAppName": {
+    "message": "Sway"
+  },
+  "TelemetrySettingLabel": {
+    "message": "ምርቶቻችንን ለማሻሻል እንዲረዳን፣ በራስ ሰር መንገድ ወደ እኛ ዳታ ይላኩ።"
+  },
+  "WebRedirectSettingLabel": {
+    "message": "የOffice ፋይሎችን በቀጥታ በOffice ይክፈቱ"
+  },
+  "MoreFilesLabel": {
+    "message": "ተጨማሪ ሰነዶች"
+  },
+  "WordAppName": {
+    "message": "Word"
+  },
+  "WordOnlineAppName": {
+    "message": "Word"
+  },
+  "SignInHeaderLabel": {
+    "message": "ፋይሎችዎን የት ማስቀመጥ ይፈልጋሉ?"
+  },
+  "NextLabel": {
+    "message": "በምዝበባ ግባ"
+  },
+  "CopyrightLabel": {
+    "message": "Microsoft Corporation 2015"
+  },
+  "FileTypeErrorMessage": {
+    "message": "የፋይሉ አይነት አይደገፍም። እባክዎ የWord, Excel ወይም PowerPoint ሰነድ ይምረጡ።"
+  },
+  "FeedbackCommentPlaceholder": {
+    "message": "እባክዎ አስተያየትዎን እዚህ ይስጡ"
+  },
+  "FeedbackDontLike": {
+    "message": "አንዳች ነገር አላስደሰተኝም"
+  },
+  "FeedbackOverall": {
+    "message": "ምን አይነት አስተያየት ነው ያለዎት?"
+  },
+  "FeedbackTitle": {
+    "message": "አስተያየት ላክ"
+  },
+  "FeedbackLike": {
+    "message": "አንዳች ነገር አሰድስቶኛል"
+  },
+  "FeedbackPrivacyStatement": {
+    "message": "የግላዊነት መግለጫ"
+  },
+  "FeedbackSubmit": {
+    "message": "አስገባ"
+  },
+  "FeedbackSuggestion": {
+    "message": "ሃሳብ አለኝ"
+  },
+  "FeedbackWhatLike": {
+    "message": "የወደዱት ነገር ምንድነው?"
+  },
+  "FeedbackWhatDontLike": {
+    "message": "ያልወደዱት ነገር ምንድነው?"
+  },
+  "FeedbackWhatSuggest": {
+    "message": "ምን ሃሳብ ይሰጣሉ?"
+  },
+  "NotificationFileAccess": {
+    "message": "ፋይሎችን ወደ Chrome ጎትቶ መጣል የሚፈልጉ ከሆነ፣ በChrome ቅጥያዎች ማስተካከያዎች ውስጥ፣ \"Allow access to file URLs\" የምልክት ሳጥንን ምረጥ።"
+  },
+  "NotificationFileMaxSizeByteLimitReached": {
+    "message": "የOffice የአሳሽ ተቀጥላ  በመጠኑ ምክንያት ሰነድዎን መክፈት አልቻለም። እባክዎ ሰነዱን ለመክፈት በቀጥታ ወደ OneDrive ይስቀሉ።"
+  },
+  "NotificationFileUploadFailureGeneric": {
+    "message": "ይቅርታ፣ ፋይልዎን መክፈት አልቻልንም"
+  },
+  "NotificationFileUploadFailureServer": {
+    "message": "ይቅርታ፤ ፋይልዎን መክፈት አልቻልንም።  እባክዎ ወደ በኋላ እንደገና ይሞክሩ።"
+  },
+  "NotificationFileUploadFailureUnsupportedMedia": {
+    "message": "ይቅርታ፣ ፋይልዎን መክፈት አልቻልንም። እባክዎ በWord፣  Excel ወይም PowerPoint የተፈጠሩ ፋይሎችን ምረጥ"
+  },
+  "NotificationFileUploadInProgress": {
+    "message": "አሁን የእርስዎን ሰነዶች በመስቀል ላይ ነን።"
+  },
+  "NotificationSetDefault": {
+    "message": "በፋይሎች መተግበሪያ ውስጥ፣ ሰነዶችን በOffice ለመክፈት በሁለት ጣቶች መታ ያድርጓቸው።"
+  },
+  "NotificationAutoSaveToOneDrive": {
+    "message": "ፋይልዎን በOneDrive ላይ በሚገኘው የ \"Office ተቀጥላ\" አቃፊዎ ውስጥ አስቀምጠናል።"
+  },
+  "NotificationAutoSaveToSharePoint": {
+    "message": "ፋይልዎን በOneDrive for Business ላይ በሚገኘው የ \"Office ተቀጥላ\" አቃፊዎ ውስጥ አስቀምጠናል።"
+  },
+  "NotificationAutoSaveButton": {
+    "message": "ይህን እንደገና አታሳይ"
+  },
+  "NotificationNotSignedIn": {
+    "message": "በOffice በድር ላይ ውስጥ ፋይሎችን ለመመልከት እና አርትዕ ለማድረግ፣ ወደ ተቀጥላው በመለያ ይግቡ።"
+  },
+  "NotificationUnsupportedFileType": {
+    "message": "ይቅርታ፣ ፋይልዎን መክፈት አልቻልንም። እባክዎ በWord፣ Excel ወይም PowerPoint የተፈጠሩ ፋይሎችን ምረጥ።"
+  },
+  "NotificationInvalidSubscription": {
+    "message": "የ Office 365 ምዝገባዎ የመጠቀሚያ ጊዜ አልፎ ሊሆን ይችላል ወይም OneDrive for Business ን ላይጨምር ይችላል። ምዝገባዎን ያረጋግጡ ወይም በ Microsoft መለያዎ ይግቡ።"
+  },
+  "NotificationWebDocRedirect": {
+    "message": "የ Office ቅጥያ ሰነድዎን በአሳሹ ውስጥ በመክፈት ላይ ነው"
+  },
+  "NotificationWebDocRedirectButton": {
+    "message": "ይህን እንደገና አታሳይ"
+  },
+  "OfficeOnlineAppName": {
+    "message": "Office"
+  },
+  "ShareMessage": {
+    "message": "አጋራ"
+  },
+  "SharePermissionsTooltip": {
+    "message": "ለማጋራት ፈቃድ የለህም"
+  },
+  "SharePermissionsErrorMessage": {
+    "message": "ፈቃድ ይፈለጋል"
+  },
+  "SupportPageLabel": {
+    "message": "ለመግባት እርዳታ ይፈልጋሉ?"
+  },
+  "MyAccountLabel": {
+    "message": "መለያዬን ተመልከት"
+  },
+  "EditorSpellingToggleLabel": {
+    "message": "ስርዓተ ሆሄያት"
+  },
+  "EditorGrammarToggleLabel": {
+    "message": "ሰዋስው "
+  },
+  "EditorRefinementsToggleLabel": {
+    "message": "መሻሻሎች"
+  },
+  "DisableEditorOnThisSiteLabel": {
+    "message": "በ $አስተናጋጅ$ ላይ አርታኢን አሰናክል",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EnableEditorOnThisSiteLabel": {
+    "message": "በ $አስተናጋጅ$ ላይ አርታኢን ያንቁ",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsDisabledOnThisSiteLabel": {
+    "message": "አርታኢ በአሁኑ ጊዜ በ $አስተናጋጅ$ ላይ ተሰናክሏል",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsBlockedOnThisSiteLabel": {
+    "message": "አርታኢ በአሁኑ ጊዜ በ $አስተናጋጅ$ ላይ አይደገፍም",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorPreviewLabel": {
+    "message": "(ቅድመ ዕይታ)"
+  },
+  "ebx_appName": {
+    "message": "አርታዒ በአሳሽ ውስጥ"
+  },
+  "ebx_appShortName": {
+    "message": "አርታኢ"
+  },
+  "ebx_appDescription": {
+    "message": "እየተየቡ እያለ የሥስርዓተ ሆሄያት፣ ሰዋስው እና ቅጥ ፍተሻን በአሳሽ ውስጥ በአብዛኛዎቹ ድር ጣቢያዎች ላይ ያግኙ።"
+  },
+  "ebx_appDescriptionWithOffice": {
+    "message": "የOffice ፋይሎችን በአሳሽ ውስጥ ይመልከቱ፣ አርትዕ ያድርጉ፣ እና ይፍጠሩ እንዲሁም እየተየቡ እያለ የሥስርዓተ ሆሄያት፣ ሰዋስው እና ቅጥ ፍተሻን በመላ ድር ጣቢያዎች ላይ ያግኙ።"
+  },
+  "ebx_appLongDescription": {
+    "message": "አርታዒ የጽሕፈት ረዳትዎ ነው – አርታዒ ግድፈቶችን ለሥርዓተ ሆሄያት፣ ሰዋስው፣ እና የቅጥ ግድፈቶች እንደየ አይነታቸው በቀይ፣ በሰማያዊ፣ ወይም ወርቃማ ከስር በማስመር ምልክት ይሰጣል። ከስር የተሰመረበት ቃል ላይ ያንዣብቡ፣ ከዚያም የሚፈልጉትን ጥቆማ ይምረጡ፣ ወይም ስለ ስህተቱ እና እንዴት ሊፈቱት እንደሚችሉ የበለጠ ይወቁ።\r\n\r\nበራስ በመተማመን ይፍጠሩ – አርታዒ የተሻሻሉ የለቀማ መሳሪያዎችን ለOffice 365 ደንበኞች ያቀርባል። ከመጋረጃው በስተጀርባ፣ ብልህ አገልግሎቶች የሥርዓተ ሆሄያት፣ ሰዋስው፣ እና ቅጣዊ ግድፈቶችን ይለያሉ።\r\n\r\nመተግበሪያውን በመጫን፣ በእነዚህ ውሎች እና ሁኔታዎች ይስማማሉ፦ https://aka.ms/editorchromeextensionterms\r\n\r\nየግላዊነት ፖሊሲ፦ https://aka.ms/privacy\r\n"
+  },
+  "ebx_appLongDescriptionEdge": {
+    "message": "አርታዒ በMicrosoft Edge የመሳሪያ አሞሌ ላይ የላቀ ለቀማ የሚያነቃ አዶ ያስቀምጣል።\r\n\r\nመተግበሪያውን በመጫን፣ በእነዚህ ውሎች እና ሁኔታዎች ይስማማሉ፦ \r\n\r\n"
+  },
+  "ebx_appTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office Online software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "ebx_copyrightLabel": {
+    "message": "Microsoft Corporation 2019"
+  },
+  "ebx_office365": {
+    "message": "Office 365"
+  },
+  "ebx_optionsPageTitle": {
+    "message": "የአርትዖት ቅንብር"
+  },
+  "ebx_settings": {
+    "message": "ቅንብሮች"
+  },
+  "ebx_proofingLanguage": {
+    "message": "የለቀማ ቋንቋ"
+  },
+  "ebx_proofingLanguagePlaceHolder": {
+    "message": "የለቀማ ቋንቋ ይምረጡ"
+  },
+  "ebx_saveButtonCaption": {
+    "message": "አስቀምጥ"
+  },
+  "ebx_cancelButtonCaption": {
+    "message": "ሰርዝ"
+  },
+  "ebx_userExcludedUrlsTextBoxCaption": {
+    "message": "ከታች በተዘረዘሩት ፋይሎች ላይ ማረጋገጫን አሰናክለዋል። ስሱ መረጃ ካላቸው ውይም ቀስ ያለ የጭነት ፍጥነት ያላቸው ተጨማሪ ጣቢያዎች ላይ አርትዕ ማድረጊያውን ማሰናከል ይቻለል።"
+  },
+  "ebx_userBlockedSites": {
+    "message": "የተከለከሉ ጣቢያዎች"
+  },
+  "ebx_userExcludedUrlsErrorCaption": {
+    "message": "ልክ ያልሆነ ዩአርኤል \"$url$\" በመስመር $line$ ላይ።",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "https://microsoft.com"
+      },
+      "line": {
+        "content": "$2",
+        "example": "123"
+      }
+    }
+  },
+  "ebx_userExcludedUrlErrorCaption": {
+    "message": "የተሳሳተ ዩአርኤል"
+  },
+  "ebx_showSpellingAndGrammarToggleCaption": {
+    "message": "የቃላት አፃፃፍ እና ሰዋስው አሳይ"
+  },
+  "ebx_showSynonymsToggleCaption": {
+    "message": "ተወራራሽ ትርጉሞችን በስረዕተ ሆሄያት ጥቆማዎች ላይ አሳይ"
+  },
+  "ebx_comingSoonTooltipTitle": {
+    "message": "በቅርቡ የሚመጣ"
+  },
+  "ebx_changeAllCommandLabel": {
+    "message": "ሁሉንም ለውጥ"
+  },
+  "ebx_changeSettingsCommandLabel": {
+    "message": "የአርትዖት ቅንብሮች..."
+  },
+  "ebx_moreButtonArialLabel": {
+    "message": "ተጨማሪ ትዕዛዛት"
+  },
+  "ebx_ignoreAllButtonLabel": {
+    "message": "ሁሉም ተወው"
+  },
+  "ebx_suggestionMoreActionsArialLabel": {
+    "message": "ተጨማሪ እርምጃዎች"
+  },
+  "ebx_brandText": {
+    "message": "Microsoft አርታኢ"
+  },
+  "ebx_brandTextArialLabel": {
+    "message": "Microsoft አርታዒ አርማ"
+  },
+  "ebx_brandTextTooltipTitle": {
+    "message": "በOffice የተጎለበተ ለቀማ"
+  },
+  "ebx_brandTextBrandName": {
+    "message": "ቢሮ"
+  },
+  "ebx_showSynonyms": {
+    "message": "ተወራራሽ ትርጉሞችን አሳይ"
+  },
+  "ebx_hideSynonyms": {
+    "message": "ተወራራሽ ትርጉሞችን ደብቅ"
+  },
+  "ebx_ariaReplaceWith": {
+    "message": "ተካ በ"
+  },
+  "ebx_deleteRepeatedWord": {
+    "message": "የተደገመ ቃል ሰርዝ"
+  },
+  "ebx_asInSynonyms": {
+    "message": "እንደዚህ"
+  },
+  "ebx_goPremiumLine": {
+    "message": "የአርታዒውን የላቀ የጽሁፍ ሃሳቦች ይሞክሩ።"
+  },
+  "ebx_goPremiumLinkText": {
+    "message": "ወደ Premium ይሂዱ"
+  },
+  "ebx_checkSpelling": {
+    "message": "ስርዓተ ሆሄያት ይፈትሹ"
+  },
+  "ebx_checkGrammar": {
+    "message": "ሰዋስው ይፈትሹ"
+  },
+  "ebx_checkForRefinements": {
+    "message": "ለመሻሻያዎች ይፈትሹ"
+  },
+  "ebx_addAnotherSite": {
+    "message": "ሌላ ጣቢያ አክል"
+  },
+  "ebx_goPremiumExplained": {
+    "message": "የአርትዕ የላቁ የጽሁፍ ሃሳቦችን፣ የ 1ቴቢ የOneDrive ማከማቻ፣ እና የፕሪሚየም ባህርያትን በሁሉም የOffice 365 መተግበሪያዎች ያግኙ።"
+  },
+  "ebx_addAnotherSiteAriaLabel": {
+    "message": "በሌላ ጣቢያ ላይ አርትዕን ይከልክሉ"
+  },
+  "ebx_addAnotherSiteSubmit": {
+    "message": "ወደ የተከለከሉ የጣቢያዎች ዝርዝር ጣቢያን አክል"
+  },
+  "ebx_addAnotherSiteCancel": {
+    "message": "ወደ የተከለከሉ ጣቢያዎች ዝርዝር ጣቢያ ማክለን ይሰርዙ።"
+  },
+  "ebx_RemoveItem": {
+    "message": "አስወግድ"
+  },
+  "ebx_duplicateBlockedSite": {
+    "message": "ጣቢያው በየተከለከሉ የጣቢያዎች ዝርዝር ላይ ተከልክሏል"
+  },
+  "ebx_editorEnableAnnouncementTitle": {
+    "message": "ወደ የOffice የአሳሽ ቅጥያ እንኳን በደህና መጡ"
+  },
+  "ebx_editorEnableAnnouncementText": {
+    "message": "የOffice የአሳሽ ቅጥያ በአሳሽ ውስጥ የOffice ፋይሎችን እንዲያዩ፣ እንዲያርትዑ፣ እና እንዲፈጥሩ ይስችሎታል። እንዲሁም የፊደል አደራደር፣ ሰዋ ሰው፣ እና በአብዛኛው ድህረ ገጾች ላይ በ፣ኢጽፈኡበት ጊዜ ቅጥን የሚያርም የአርትዕ የመጻፊያ መሳሪያን ያጠቃልለል።"
+  },
+  "ebx_editorEnableAnnouncementSettings": {
+    "message": "ወደ አርትዕ ቅንብሮች ሂድ"
+  },
+  "ebx_feedbackSendTo": {
+    "message": "አርታኢው እንደ Microsoft የውስጥ ቅድመ እይታ ይገኛል፡፡ እባክዎ ግብረመልሶችን እና ሳንካዎችን ይላኩ ለ"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Meow, The Cat Pet",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "מיאו הוא משחק עם חתול מחמד וירטואלי אשר מארח לך חברה בזמן השימוש בדפדפן.", 
+    "description":"The description of the application, displayed in the web store."
+  }
+}

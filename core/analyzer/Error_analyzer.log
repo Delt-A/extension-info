@@ -1,0 +1,9 @@
+ERROR:root:
+----------------------
+:E:\Thesis\extension-info\core\analyzer\Data\readwrite-for-google-chro
+Traceback (most recent call last):
+  File "E:\Thesis\extension-info\core\analyzer\GLib.py", line 354, in ExtensionAnalyzer
+    print("Testing: {}", format(final_output))
+  File "C:\Program Files\Python37\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u03c7' in position 31504: character maps to <undefined>

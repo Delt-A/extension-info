@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meow, The Cat Pet</title>
+    <link href="/css/popover.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+    <div id="logo">
+        <img style='width:70px;display:block;float:left;' src='/images/title-lick.png' />
+        <h1 style="font-size:36px;color:#fff;padding:15px;padding-left:5px;">Meow, The Cat Pet</h1>
+    </div>
+    <div class="tabbed-area">
+        <ul id="tabs">
+            <li class="active"><a href="#box-settings">Settings</a></li>
+            <li><a href="#box-reminders">Reminders</a></li>
+            <li><a href="#box-two">Tutorial</a></li>
+            <li><a href="#box-suggestions">Contact us</a></li>
+            <li><a href="#box-customize">Customize Meow</a></li>
+        </ul>
+        <div id="tabs-content">
+            <div class="content-block active" id="box-settings"">
+                <div id="hidden-desc">You've hidden meow for 30 min, <b id="revive-hidden" class="pointer">click here</b> to show</div>
+                <div class="clearfix top-settings">
+                    <div id="switches-holder" class="clearfix">
+                        <div class="switch-bundle clearfix">
+                            <div class="label">Show Cat</div>
+                            <div class="onoffswitch-holder">
+                                <div class="onoffswitch">
+                                    
+                                    <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="show-pet-switch" checked>
+                                    <label class="onoffswitch-label" for="show-pet-switch">
+                                        <span class="onoffswitch-inner"></span>
+                                        <span class="onoffswitch-switch"></span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                                                
+                        <div class="switch-bundle clearfix">
+                            <div class="label">Talk</div>
+                            <div class="onoffswitch-holder">
+                                <div class="onoffswitch">
+                                    <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="talk-pet-switch" checked>
+                                    <label class="onoffswitch-label" for="talk-pet-switch">
+                                        <span class="onoffswitch-inner"></span>
+                                        <span class="onoffswitch-switch"></span>
+                                    </label> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="switch-bundle clearfix">
+                            <div class="label">Walking</div>
+                            <select id="walk-type-switch">
+                                <option value="WALK">Walk Freely</option>
+                                <option value="EDGES">Edge To Edge</option>
+                                <option value="BOTTOM">Stick To Bottom</option>
+                                <option value="FALSE">Don't Walk</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div id="status-holder" class="clearfix">
+                        <div class="meter-bundle clearfix">
+                            <div class="label">Happiness</div>
+                            <div class="meter-holder">                
+                                <div class="meter green" id="happy-meter-holder">
+                                  <span id="happy-meter" style="width: 100%"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="meter-bundle clearfix">
+                            <div class="label">Hunger</div>
+                            <div class="meter-holder">                
+                                <div class="meter green" id="hunger-meter-holder">
+                                  <span id="hunger-meter" style="width: 100%"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="meter-bundle clearfix">
+                            <div class="label">Sleepy</div>
+                            <div class="meter-holder">                
+                                <div class="meter green" id="sleep-meter-holder">
+                                  <span id="sleep-meter" style="width: 100%"></span>
+                                </div>
+                            </div>
+                        </div>  
+                    </div>
+                </div>
+                <div class='bottom clearfix'>
+                    <div class="extra-settings">
+                        <div class="setting-holder clearfix">
+                            <div class="setting-label">Pet name: </div> <input maxlength="20" id="pet-name" class="setting-input" type="text" value="" />
+                        </div>
+                        <div class="setting-holder clearfix">
+                            <div class="setting-label">Your name: </div> <input maxlength="20" id="owner-name" class="setting-input" type="text" value="" />
+                            <div data-tippy="This is how the pet will name you" id="help-tip" class="help-tip" style="top:2px;right:15px;"></div>                    
+                        </div>    
+                    </div>
+                        
+                    <div style="text-align:center;" id="enter-pg-holder">
+                        <a target="_blank" href="https://www.meowplayground.com/game?r=ext" class="btn-style-1">ENTER THE PLAYGROUND</a>
+                    </div>
+                </div>
+                <div>
+                    <iframe style="width:100%;height:100px;border:0" src="https://www.meowplayground.com/exten-ad"></iframe>
+                </div>
+            </div>
+            <div class="content-block" id="box-reminders">
+                
+                <div class="header" style="border-bottom:1px solid #eee;">
+                    <div>
+                        <h3 style="margin-top:5px;margin-bottom:2px;">LET YOUR PET REMIND YOU ABOUT STUFF</h3>
+                    </div>
+                    <div>
+                        <label><input style="margin-left:0;vertical-align:middle" type="checkbox" id="chrome-notify" /> Notify using chrome notification as well</label>
+                    </div>
+                    <div class="clearfix" style="margin-bottom:5px;margin-top:7px;">
+                        <div style="width:65%;float:left;"><h4 style="margin:0px;">Reminder text</h4></div>
+                        <div style="width:35%;float:left;"><h4 style="margin:0px;padding-left:18px;">Reminder frequency</h4></div>
+                    </div>
+                </div>
+                <div id="reminder-items">
+
+                </div>
+                <button id="add-reminder">Add another +</button>              
+            </div>
+            <div class="content-block" id="box-two" style="height:400px;">
+                <div class="exp-txt">
+                    Access the full tutorial by clicking <a style='color:red;text-decoration:none;' href='https://www.meowplayground.com/tutorial' target="_blank">HERE</a>
+                </div>
+                <hr />
+                <div class="guide-box">
+                    <b>Meow</b>
+                    Meow is a sweet Cat that will run on your screen when you're browsing websites.
+                    <br>
+                    Meow will Talk to you, walk around, and keep himself busy.
+                    <br>
+                    Even though he's an independent cat, He will still expect you to feed him and pet him.
+                    <br>
+                    Otherwise, he'll become sad, and will let you know about it.
+                </div>
+                <div class="guide-box">
+                <b>Meow menu</b>
+                    Right click meow with your mouse to open the Meow Menu. 
+                    If you're on Chromebook or Mac, Click the touchpad with two fingers to open the right-click menu.                
+                </div>
+                <div class="guide-box">
+                    <b>Eating</b>
+                    Right click meow with your mouse to open Meow Menu, then click "Feed".
+                </div>
+                <div class="guide-box">
+                    <b>Petting</b>
+                    You can pet meow to keep him happy.
+                    <br>
+                    Move your mouse over Meow for 2 seconds and you will start petting him.
+                </div>
+                <div class="guide-box">
+                    <b>Sleeping</b>
+                    Meow will go to sleep by himself when he feels tired.
+                </div>
+                <div class="guide-box">
+                    <b>Moving Around</b>
+                    Meow will randomly move from place to place on your screen.
+                    <br>
+                    If you don't want him to move, You can choose to disable movement from the settings tab.
+                </div>
+                <div class="guide-box">
+                    <b>Playground</b>
+                    Playground is a chat where you can talk to other Meows from all over the world.
+                    <br>
+                    In the playground, you are the one who's controlling Meow.
+                    <br>
+                    You can click over the screen to move. Double click to run. Press the "spacebar" key to throw Snowballs or right click
+                    your Meow to choose between different actions.
+                
+                </div>                
+            </div>
+            <div class="content-block" id="box-customize">
+                <div class="exp-txt">
+                    You can change your Meow's skin in the playground. Read more in the <a style='color:red;text-decoration:none;' href='https://www.meowplayground.com/tutorial' target="_blank">Tutorial</a>
+                <div class="preview-holder clearfix">
+                    <div class="skin-display-holder"><img src="/images/skins/milky.png" /></div>
+                    <div class="skin-display-holder"><img src="/images/skins/choco.png" /></div>
+                    <div class="skin-display-holder"><img src="/images/skins/tigri.png" /></div>
+                    <div class="skin-display-holder"><img src="/images/skins/cheetah.png" /></div>
+                    <div class="skin-display-holder"><img src="/images/skins/darky.png" /></div>
+                    <div class="skin-display-holder"><img src="/images/skins/calico.png" /></div>
+                    <div class="skin-display-holder"><img src="/images/skins/husky.png" /></div>
+                    <div class="skin-display-holder"><img src="/images/skins/howie.png" /></div>
+                    <div class="skin-display-holder"><img src="/images/skins/pug.png" /></div>
+                </div>
+                </div>
+
+                <a target="_blank" href="https://www.meowplayground.com/game?r=extsk" class="btn-style-1" style="display:block;width:200px;margin:10px auto 0 auto;font-size:14px;text-decoration:none;padding:7px;">
+                    ENTER THE PLAYGROUND
+                </a>                
+            </div>
+            <div class="content-block" id="box-suggestions">
+                <div id="suggestion-section">
+                    <div class='exp-txt'>
+                        <span>We'd love to hear your thoughts and suggestions about Meow. Simply fill the form below!</span>
+                    </div>
+                    <form>
+                        <input maxlength="200" id="suggest-email" placeholder="Email address" value="" /><span> If you want us to respond, enter your email.</span><br>
+                        <textarea placeholder="Your message" maxlength="2000" id="suggest-content"></textarea>
+                        <br>
+                        <button type="button" class="btn-style-1" id="send-suggestion">SEND</button>
+                    </form>
+                </div>
+                <div id="notif-section">       
+                    <div class="contacts-text">
+                        <span style="font-size:12px;font-weight:bold;">You can also contact us by email: support@meowplayground.com
+                        <br />
+                        Follow us: 
+                        </span>
+                        <a title="facebook" href="https://www.facebook.com/MeowTheCatPet/" target="_blank"><img style="width:24px;" alt="facebook" src="/images/facebook.png"></a>
+                        <a title="instagram" href="https://www.instagram.com/meowplayground/" target="_blank"><img style="width:24px;" alt="instagram" src="/images/instagram.png"></a>
+                        <br>
+                        <a href="https://www.meowplayground.com/shop" class="font-sb" target="_blank">Merchandise Shop</a>
+                    </div>
+                </div>                
+            </div>            
+            
+        </div>        
+    </div>
+        
+    <script id="reminder-tmpl" type="text/html">
+        <div>
+            <div class="input-holder">
+                <div class="buttons-holder">
+                    <label><input checked="checked" class="enabled" name="enabled" type="checkbox" style="vertical-align:middle" /> Enabled </label> | <a href="#" class="remove">Remove</a>
+                </div>
+                <input maxlength="60" type="text" value="Your reminder text" name="text" class="text" />
+            </div>
+            <div class="duration-holder">
+                <div class="duration-item">
+                    <button class="min-plus">+</button>
+                    <input type="text" class="duration-input minutes" name="minutes" maxlength="2" value="10" />
+                    <div class="duration-text">MIN</div>
+                    <button class="min-minus">-</button>
+                </div>
+                <div class="duration-item">
+                    <button class="hour-plus">+</button>
+                    <input type="text" class="duration-input hours" name="hours" maxlength="2" value="0" />
+                    <div class="duration-text">HOUR</div>
+                    <button class="hour-minus">-</button>
+                </div>                   
+            </div>                
+        </div>
+    </script>
+    <script src='/js/tippy.all.min.js'></script>
+    <script src='/js/popup.js'></script>
+    
+    
+</body>
+</html>

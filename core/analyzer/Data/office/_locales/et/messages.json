@@ -1,0 +1,462 @@
+{
+  "AppName": {
+    "message": "Office"
+  },
+  "AppShortName": {
+    "message": "Office"
+  },
+  "AppNameEdge": {
+    "message": "Office'i brauserilaiendus"
+  },
+  "AppFolderName": {
+    "message": "Office'i laiendus"
+  },
+  "AppDescription": {
+    "message": "Saate veebibrauseris Office'i dokumente vaadata, redigeerida ja luua."
+  },
+  "AppLongDescription": {
+    "message": "Välja töötatud Chrome'i jaoks – saate ilma Office'it installimata kasutada veebis rakendusi Word, Excel, PowerPoint, OneNote ja Sway Online.\r\n\r\nDokumentide hõlbus koostamine – tuttavate vormindus- ja küljendusfunktsioonide abil saate anda vormi oma suurepärastele ideedele.\r\n\r\nTöötamine liikvel olles – integreeritud OneDrive'i ja OneDrive for Businessi abil pääsete oma failidele juurde kõikjal.\r\n\r\nRakenduse installimise korral nõustute järgmiste tingimustega: http://aka.ms/officechromeextensionterms\r\n\r\nprivaatsuspoliitika: http://aka.ms/privacy\r\n"
+  },
+  "AppLongDescriptionEdge": {
+    "message": "Office'i brauserilaiend lisab Microsoft Edge'i tööriistaribale ikooni, mis annab teile otsejuurdepääsu oma Office'i failidele olenemata sellest, kas talletate neid võrgus või arvutis.\r\n\r\nOffice'i veebilaiend võimaldab avada OneDrive'i ja OneDrive for Businessisse salvestatud faile.\r\n\r\nSaate Wordi, Exceli, PowerPointi, OneNote'i ja Sway funktsioone kasutada otse brauseris, ilma et oleks vaja installida Office'it.\r\n\r\nRakenduse installimise korral nõustute nende tingimustega: \r\n\r\n"
+  },
+  "AppTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "BrowseToOpenLabel": {
+    "message": "Laadi üles ja ava..."
+  },
+  "UploadToOneDriveLabel": {
+    "message": "Laadi üles OneDrive'i"
+  },
+  "UploadToOneDriveBusinessLabel": {
+    "message": "Laadi üles OneDrive for Businessisse"
+  },
+  "AppListLabel": {
+    "message": "Veebirakendused"
+  },
+  "RecentDocsLabel": {
+    "message": "Viimatised"
+  },
+  "CreateDocsMessageLabel": {
+    "message": "Hiljuti vaadatud dokumente pole."
+  },
+  "DocumentsNotFoundMessageLabel": {
+    "message": "Viimatiste dokumentide loendit ei saa praegu tuua."
+  },
+  "LoadingRecentsLabel": {
+    "message": "Laadimine..."
+  },
+  "CreateNewLabel": {
+    "message": "Uus"
+  },
+  "OfflineLabel": {
+    "message": "Töötate võrguühenduseta. Chrome'i Office'i brauserilaienduse kasutamiseks looge uuesti ühendus."
+  },
+  "OpenDocumentLabel": {
+    "message": "Ava"
+  },
+  "AccountLabel": {
+    "message": "Konto"
+  },
+  "UsernameLabel": {
+    "message": "Pole sisse logitud"
+  },
+  "SettingsLabel": {
+    "message": "Sätted"
+  },
+  "ExcelAppName": {
+    "message": "Excel"
+  },
+  "ExcelOnlineAppName": {
+    "message": "Excel"
+  },
+  "OneDriveAppName": {
+    "message": "OneDrive"
+  },
+  "SharePointAppName": {
+    "message": "SharePoint"
+  },
+  "SharePointSiteAppName": {
+    "message": "SharePoint"
+  },
+  "OutlookAppName": {
+    "message": "Outlook"
+  },
+  "TeamsAppName": {
+    "message": "Teams"
+  },
+  "OneDriveFilesLabel": {
+    "message": "OneDrive'ist"
+  },
+  "O365FilesLabel": {
+    "message": "OneDrive for Businessist"
+  },
+  "OneNoteAppName": {
+    "message": "OneNote"
+  },
+  "OneNoteOnlineAppName": {
+    "message": "OneNote"
+  },
+  "PowerPointAppName": {
+    "message": "PowerPoint"
+  },
+  "PowerPointOnlineAppName": {
+    "message": "PowerPoint"
+  },
+  "SignInLabel": {
+    "message": "Logi sisse"
+  },
+  "SignInMSALabel": {
+    "message": "Logi sisse Microsofti kontoga"
+  },
+  "SignInO365Label": {
+    "message": "Logi sisse töö- või koolikontoga"
+  },
+  "SignOutLabel": {
+    "message": "Logi välja"
+  },
+  "CreateAccountLabel": {
+    "message": "Loo konto"
+  },
+  "SwayAppName": {
+    "message": "Sway"
+  },
+  "TelemetrySettingLabel": {
+    "message": "Saada automaatselt andmeid, et saaksime oma tooteid paremaks muuta."
+  },
+  "WebRedirectSettingLabel": {
+    "message": "Ava Office'i failid Office'i kaudu otse brauseris."
+  },
+  "MoreFilesLabel": {
+    "message": "Veel dokumente"
+  },
+  "WordAppName": {
+    "message": "Word"
+  },
+  "WordOnlineAppName": {
+    "message": "Word"
+  },
+  "SignInHeaderLabel": {
+    "message": "Kuhu soovite oma failid salvestada?"
+  },
+  "NextLabel": {
+    "message": "Logi sisse"
+  },
+  "CopyrightLabel": {
+    "message": "Microsoft Corporation, 2015"
+  },
+  "FileTypeErrorMessage": {
+    "message": "Failitüüpi ei toetata. Valige Wordi, Exceli või PowerPointi dokument."
+  },
+  "FeedbackCommentPlaceholder": {
+    "message": "Tippige oma kommentaar"
+  },
+  "FeedbackDontLike": {
+    "message": "On midagi, mis mulle ei meeldi"
+  },
+  "FeedbackOverall": {
+    "message": "Milline on teie tagasiside?"
+  },
+  "FeedbackTitle": {
+    "message": "Tagasiside saatmine"
+  },
+  "FeedbackLike": {
+    "message": "On midagi, mis mulle meeldib"
+  },
+  "FeedbackPrivacyStatement": {
+    "message": "Privaatsusavaldus"
+  },
+  "FeedbackSubmit": {
+    "message": "Esita"
+  },
+  "FeedbackSuggestion": {
+    "message": "Mul on ettepanek"
+  },
+  "FeedbackWhatLike": {
+    "message": "Mis teile meeldis?"
+  },
+  "FeedbackWhatDontLike": {
+    "message": "Mis teile ei meeldinud?"
+  },
+  "FeedbackWhatSuggest": {
+    "message": "Mida soovitate?"
+  },
+  "NotificationFileAccess": {
+    "message": "Kui soovite pukseerida faile Chrome'i, märkige Chrome'i laienduste seadetes ruut \"Luba juurdepääs failide URL-idele\"."
+  },
+  "NotificationFileMaxSizeByteLimitReached": {
+    "message": "Office'i brauserilaiendus ei saa dokumenti avada, sest dokument on liiga mahukas. Laadige dokument avamiseks üles otse OneDrive'i."
+  },
+  "NotificationFileUploadFailureGeneric": {
+    "message": "Kahjuks ei saanud teie faili avada."
+  },
+  "NotificationFileUploadFailureServer": {
+    "message": "Kahjuks ei saanud teie faili avada. Proovige hiljem uuesti."
+  },
+  "NotificationFileUploadFailureUnsupportedMedia": {
+    "message": "Kahjuks ei saanud teie faili avada. Valige Wordis, Excelis või PowerPointis loodud fail."
+  },
+  "NotificationFileUploadInProgress": {
+    "message": "Laadime praegu teie dokumente üles."
+  },
+  "NotificationSetDefault": {
+    "message": "Rakenduses Failid olevate dokumentide avamiseks Office'is puudutage dokumente kahe sõrmega."
+  },
+  "NotificationAutoSaveToOneDrive": {
+    "message": "Salvestasime faili teie OneDrive'i kausta \"Office'i laiendus\"."
+  },
+  "NotificationAutoSaveToSharePoint": {
+    "message": "Salvestasime faili teie OneDrive for Businessi kausta \"Office'i laiendus\"."
+  },
+  "NotificationAutoSaveButton": {
+    "message": "Ära seda enam kuva"
+  },
+  "NotificationNotSignedIn": {
+    "message": "Failide Office'i veebirakenduses vaatamiseks ja redigeerimiseks logige rakenduses sisse."
+  },
+  "NotificationUnsupportedFileType": {
+    "message": "Valige Wordis, Excelis või PowerPointis loodud fail."
+  },
+  "NotificationInvalidSubscription": {
+    "message": "Teie Office 365 tellimus võib olla aegunud või ei sisalda OneDrive for Businessit. Vaadake tellimus üle või logige sisse Microsofti kontoga."
+  },
+  "NotificationWebDocRedirect": {
+    "message": "Office'i laiendus avab teie dokumendi brauseris"
+  },
+  "NotificationWebDocRedirectButton": {
+    "message": "Ära seda enam kuva"
+  },
+  "OfficeOnlineAppName": {
+    "message": "Office"
+  },
+  "ShareMessage": {
+    "message": "Jaga"
+  },
+  "SharePermissionsTooltip": {
+    "message": "Teil pole õigust jagada"
+  },
+  "SharePermissionsErrorMessage": {
+    "message": "Õigus on nõutav"
+  },
+  "SupportPageLabel": {
+    "message": "Kas vajate sisselogimisel abi?"
+  },
+  "MyAccountLabel": {
+    "message": "Kuva minu konto"
+  },
+  "EditorSpellingToggleLabel": {
+    "message": "Õigekiri"
+  },
+  "EditorGrammarToggleLabel": {
+    "message": "Grammatika"
+  },
+  "EditorRefinementsToggleLabel": {
+    "message": "Viimistlussoovitused"
+  },
+  "DisableEditorOnThisSiteLabel": {
+    "message": "Keela korrektor saidil $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EnableEditorOnThisSiteLabel": {
+    "message": "Luba korrektor saidil $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsDisabledOnThisSiteLabel": {
+    "message": "Korrektor on praegu saidil $host$ keelatud",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsBlockedOnThisSiteLabel": {
+    "message": "Korrektor ei toeta praegu saiti $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorPreviewLabel": {
+    "message": "(eelversioon)"
+  },
+  "ebx_appName": {
+    "message": "Korrektor otse brauseris"
+  },
+  "ebx_appShortName": {
+    "message": "Korrektor"
+  },
+  "ebx_appDescription": {
+    "message": "Enamikul veebisaitidel saate brauseris tippimise ajal kasutada õigekirja-, grammatika- ja stiilikontrolli."
+  },
+  "ebx_appDescriptionWithOffice": {
+    "message": "Enamikul veebisaitidel saate brauseris tippimise ajal kasutada õigekirja-, grammatika- ja stiilikontrolli. Lisaks saate Office'i faile otse brauseris vaadata, redigeerida ja luua."
+  },
+  "ebx_appLongDescription": {
+    "message": "Korrektor on teile teksti kirjutamisel abiks, märkides õigekirja-, grammatika- ja stiiliprobleemid vastavalt punase, sinise või kuldse allakriipsutusega. Kui viite kursori allakriipsutatud sõnale, saate valida meelepärase soovituse või lugeda vea ja selle parandamise kohta lisateavet.\r\n\r\nDokumentide koostamine on stressivabam kui kunagi varem – Korrektor annab Office 365 tellijate käsutusse täiustatud õigekeelsusriistad. Tehisintellektile toetuvad teenused tuvastavad taustal töötades nii õigekirja- ja grammatika- kui ka stiiliprobleemid.\r\n\r\nRakenduse installimisega nõustute järgmiste tingimustega: https://aka.ms/editorchromeextensionterms\r\n\r\nPrivaatsuspoliitika: https://aka.ms/privacy\r\n"
+  },
+  "ebx_appLongDescriptionEdge": {
+    "message": "Korrektor lisab Microsoft Edge'i tööriistaribale ikooni, mille kaudu saab sisse lülitada täpsema õigekeelsuskontrolli.\r\n\r\nKui installite selle rakenduse, nõustute järgmiste tingimustega: \r\n\r\n"
+  },
+  "ebx_appTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office Online software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "ebx_copyrightLabel": {
+    "message": "Microsoft Corporation, 2019"
+  },
+  "ebx_office365": {
+    "message": "Office 365"
+  },
+  "ebx_optionsPageTitle": {
+    "message": "Korrektori sätted"
+  },
+  "ebx_settings": {
+    "message": "Sätted"
+  },
+  "ebx_proofingLanguage": {
+    "message": "Õigekeelsuskontrolli keel"
+  },
+  "ebx_proofingLanguagePlaceHolder": {
+    "message": "Valige õigekeelsuskontrolli keel"
+  },
+  "ebx_saveButtonCaption": {
+    "message": "Salvesta"
+  },
+  "ebx_cancelButtonCaption": {
+    "message": "Loobu"
+  },
+  "ebx_userExcludedUrlsTextBoxCaption": {
+    "message": "Olete õigekeelsuskontrolli allpool loetletud saitidel keelanud. Lisaks võib korrektorifunktsioon olla automaatselt välja lülitatud ka muudel saitidel, mis sisaldavad delikaatset sisu või mille laadimine on aeglane."
+  },
+  "ebx_userBlockedSites": {
+    "message": "Blokeeritud saidid"
+  },
+  "ebx_userExcludedUrlsErrorCaption": {
+    "message": "Sobimatu URL \"$url$\" real $line$.",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "https://microsoft.com"
+      },
+      "line": {
+        "content": "$2",
+        "example": "123"
+      }
+    }
+  },
+  "ebx_userExcludedUrlErrorCaption": {
+    "message": "URL ei sobi"
+  },
+  "ebx_showSpellingAndGrammarToggleCaption": {
+    "message": "Kuva õigekirja- ja grammatikasoovitused"
+  },
+  "ebx_showSynonymsToggleCaption": {
+    "message": "Kuva õigekirjasoovituste sünonüümid"
+  },
+  "ebx_comingSoonTooltipTitle": {
+    "message": "Varsti saadaval"
+  },
+  "ebx_changeAllCommandLabel": {
+    "message": "Muuda kõik"
+  },
+  "ebx_changeSettingsCommandLabel": {
+    "message": "Korrektori sätted..."
+  },
+  "ebx_moreButtonArialLabel": {
+    "message": "Veel käske"
+  },
+  "ebx_ignoreAllButtonLabel": {
+    "message": "Ignoreeri kõiki"
+  },
+  "ebx_suggestionMoreActionsArialLabel": {
+    "message": "Rohkem toiminguid"
+  },
+  "ebx_brandText": {
+    "message": "Microsofti korrektor"
+  },
+  "ebx_brandTextArialLabel": {
+    "message": "Microsofti korrektori logo"
+  },
+  "ebx_brandTextTooltipTitle": {
+    "message": "Õigekeelsuskontroll töötab Office'i platvormil"
+  },
+  "ebx_brandTextBrandName": {
+    "message": "Office"
+  },
+  "ebx_showSynonyms": {
+    "message": "Kuva sünonüümid"
+  },
+  "ebx_hideSynonyms": {
+    "message": "Peida sünonüümid"
+  },
+  "ebx_ariaReplaceWith": {
+    "message": "Asendaja"
+  },
+  "ebx_deleteRepeatedWord": {
+    "message": "[Kustuta korduv sõna]"
+  },
+  "ebx_asInSynonyms": {
+    "message": "tähenduses"
+  },
+  "ebx_goPremiumLine": {
+    "message": "Proovige korrektori täpsemaid kirjutamissoovitusi."
+  },
+  "ebx_goPremiumLinkText": {
+    "message": "Ostke tasuline versioon"
+  },
+  "ebx_checkSpelling": {
+    "message": "Kontrolli õigekirja"
+  },
+  "ebx_checkGrammar": {
+    "message": "Kontrolli grammatikat"
+  },
+  "ebx_checkForRefinements": {
+    "message": "Otsi viimistlussoovitusi"
+  },
+  "ebx_addAnotherSite": {
+    "message": "Lisa teine sait"
+  },
+  "ebx_goPremiumExplained": {
+    "message": "Tellimisel saate enda käsutusse korrektori kirjutamisideed, 1 TB OneDrive'i salvestusruumi ja kõigi Office 365 rakenduste tasulised funktsioonid."
+  },
+  "ebx_addAnotherSiteAriaLabel": {
+    "message": "Blokeeri korrektor teisel saidil"
+  },
+  "ebx_addAnotherSiteSubmit": {
+    "message": "Lisa sait blokeeritud saitide loendisse"
+  },
+  "ebx_addAnotherSiteCancel": {
+    "message": "Tühista saidi lisamine blokeeritud saitide loendisse."
+  },
+  "ebx_RemoveItem": {
+    "message": "Eemalda"
+  },
+  "ebx_duplicateBlockedSite": {
+    "message": "See sait on juba blokeeritud saitide loendis"
+  },
+  "ebx_editorEnableAnnouncementTitle": {
+    "message": "Tere tulemast kasutama Office'i brauserilaiendit!"
+  },
+  "ebx_editorEnableAnnouncementText": {
+    "message": "Office'i brauserilaiendi abil saate Office'i faile brauseris vaadata, redigeerida ja luua. Samuti sisaldab see kirjutamistööriista Korrektor, mis võimaldab teil enamikul veebisaitidel tippimise ajal kontrollida nii õigekirja, grammatikat kui ka stiili."
+  },
+  "ebx_editorEnableAnnouncementSettings": {
+    "message": "Ava korrektori sätted"
+  },
+  "ebx_feedbackSendTo": {
+    "message": "Korrektor on saadaval Microsofti sisemise eelversioonina. Palun saatke tagasisidet ja veateave aadressil "
+  }
+}

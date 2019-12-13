@@ -1,0 +1,462 @@
+{
+  "AppName": {
+    "message": "Office"
+  },
+  "AppShortName": {
+    "message": "Office"
+  },
+  "AppNameEdge": {
+    "message": "Расширение Office для браузера"
+  },
+  "AppFolderName": {
+    "message": "Расширение Office"
+  },
+  "AppDescription": {
+    "message": "Просматривайте, редактируйте и создавайте документы Office в браузере."
+  },
+  "AppLongDescription": {
+    "message": "Создано для Chrome: пользуйтесь Word, Excel, PowerPoint, OneNote и Sway Online, не устанавливая Office.\r\n\r\nПривычные инструменты для творчества: выражайте свои идеи с помощью знакомых параметров форматирования и макета.\r\n\r\nРабота вне офиса: ваши файлы всегда будут с вами благодаря интеграции с OneDrive и OneDrive для бизнеса.\r\n\r\nУстанавливая приложение, вы принимаете эти условия: http://aka.ms/officechromeextensionterms\r\n\r\nПолитика конфиденциальности: http://aka.ms/privacy\r\n"
+  },
+  "AppLongDescriptionEdge": {
+    "message": "Расширение Office для браузера добавляет на панель инструментов Microsoft Edge значок, с помощью которого можно получить прямой доступ к своим файлам Office, хранящимся в Интернете и на компьютере.\r\n\r\nРасширение Office для браузера может открывать файлы, хранящиеся в OneDrive и OneDrive для бизнеса.\r\n\r\nВы сможете использовать возможности Word, Excel, PowerPoint, OneNote и Sway прямо в браузере без необходимости устанавливать Office.\r\n\r\nУстанавливая приложение, вы соглашаетесь со следующими условиями: \r\n\r\n"
+  },
+  "AppTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "BrowseToOpenLabel": {
+    "message": "Добавить и открыть..."
+  },
+  "UploadToOneDriveLabel": {
+    "message": "Отправить в OneDrive"
+  },
+  "UploadToOneDriveBusinessLabel": {
+    "message": "Отправить в OneDrive для бизнеса"
+  },
+  "AppListLabel": {
+    "message": "Веб-приложения"
+  },
+  "RecentDocsLabel": {
+    "message": "Последние"
+  },
+  "CreateDocsMessageLabel": {
+    "message": "Нет недавно просмотренных документов."
+  },
+  "DocumentsNotFoundMessageLabel": {
+    "message": "Не удается получить список последних документов."
+  },
+  "LoadingRecentsLabel": {
+    "message": "Загрузка..."
+  },
+  "CreateNewLabel": {
+    "message": "Создать"
+  },
+  "OfflineLabel": {
+    "message": "Вы работаете в автономном режиме. Чтобы использовать расширение Office для браузера Chrome, подключитесь повторно."
+  },
+  "OpenDocumentLabel": {
+    "message": "Открыть"
+  },
+  "AccountLabel": {
+    "message": "Учетная запись"
+  },
+  "UsernameLabel": {
+    "message": "Вход не выполнен"
+  },
+  "SettingsLabel": {
+    "message": "Параметры"
+  },
+  "ExcelAppName": {
+    "message": "Excel"
+  },
+  "ExcelOnlineAppName": {
+    "message": "Excel"
+  },
+  "OneDriveAppName": {
+    "message": "OneDrive"
+  },
+  "SharePointAppName": {
+    "message": "SharePoint"
+  },
+  "SharePointSiteAppName": {
+    "message": "SharePoint"
+  },
+  "OutlookAppName": {
+    "message": "Outlook"
+  },
+  "TeamsAppName": {
+    "message": "Teams"
+  },
+  "OneDriveFilesLabel": {
+    "message": "Из OneDrive"
+  },
+  "O365FilesLabel": {
+    "message": "Из OneDrive для бизнеса"
+  },
+  "OneNoteAppName": {
+    "message": "OneNote"
+  },
+  "OneNoteOnlineAppName": {
+    "message": "OneNote"
+  },
+  "PowerPointAppName": {
+    "message": "PowerPoint"
+  },
+  "PowerPointOnlineAppName": {
+    "message": "PowerPoint"
+  },
+  "SignInLabel": {
+    "message": "Вход"
+  },
+  "SignInMSALabel": {
+    "message": "Войти в учетную запись Майкрософт"
+  },
+  "SignInO365Label": {
+    "message": "Войти в рабочую или учебную учетную запись"
+  },
+  "SignOutLabel": {
+    "message": "Выход"
+  },
+  "CreateAccountLabel": {
+    "message": "Создать учетную запись"
+  },
+  "SwayAppName": {
+    "message": "Sway"
+  },
+  "TelemetrySettingLabel": {
+    "message": "Автоматически отправляя данные, вы поможете нам улучшить наши продукты."
+  },
+  "WebRedirectSettingLabel": {
+    "message": "Открывать файлы Office в браузере с помощью Office."
+  },
+  "MoreFilesLabel": {
+    "message": "Другие документы"
+  },
+  "WordAppName": {
+    "message": "Word"
+  },
+  "WordOnlineAppName": {
+    "message": "Word"
+  },
+  "SignInHeaderLabel": {
+    "message": "Где вы хотите сохранить файлы?"
+  },
+  "NextLabel": {
+    "message": "Вход"
+  },
+  "CopyrightLabel": {
+    "message": "Корпорация Майкрософт (Microsoft Corporation), 2015"
+  },
+  "FileTypeErrorMessage": {
+    "message": "Тип файла не поддерживается. Выберите документ Word, Excel или PowerPoint."
+  },
+  "FeedbackCommentPlaceholder": {
+    "message": "Введите свой комментарий"
+  },
+  "FeedbackDontLike": {
+    "message": "Мне не нравится кое-что"
+  },
+  "FeedbackOverall": {
+    "message": "Какой отзыв вы хотите оставить?"
+  },
+  "FeedbackTitle": {
+    "message": "Отправить отзыв"
+  },
+  "FeedbackLike": {
+    "message": "Мне нравится кое-что"
+  },
+  "FeedbackPrivacyStatement": {
+    "message": "Заявление о конфиденциальности"
+  },
+  "FeedbackSubmit": {
+    "message": "Отправить"
+  },
+  "FeedbackSuggestion": {
+    "message": "У меня есть предложение"
+  },
+  "FeedbackWhatLike": {
+    "message": "Что вам нравится?"
+  },
+  "FeedbackWhatDontLike": {
+    "message": "Что вам не нравится?"
+  },
+  "FeedbackWhatSuggest": {
+    "message": "Что вы хотите предложить?"
+  },
+  "NotificationFileAccess": {
+    "message": "Если вы хотите перетаскивать файлы прямо в Chrome, в параметрах расширения для этого браузера установите флажок \"Разрешить доступ к URL-адресам файлов\"."
+  },
+  "NotificationFileMaxSizeByteLimitReached": {
+    "message": "Расширение обозревателя Microsoft Office не удается открыть документ из-за размера.  Пожалуйста, загрузите непосредственно к OneDrive для открытия документа."
+  },
+  "NotificationFileUploadFailureGeneric": {
+    "message": "К сожалению, не удалось открыть файл."
+  },
+  "NotificationFileUploadFailureServer": {
+    "message": "К сожалению, не удалось открыть файл. Повторите попытку позже."
+  },
+  "NotificationFileUploadFailureUnsupportedMedia": {
+    "message": "К сожалению, не удалось открыть файл.  Выберите файл, созданный в Word, Excel или PowerPoint"
+  },
+  "NotificationFileUploadInProgress": {
+    "message": "В настоящий момент идет отправка документов."
+  },
+  "NotificationSetDefault": {
+    "message": "Чтобы открыть документы в Office, коснитесь их двумя пальцами в приложении \"Файлы\"."
+  },
+  "NotificationAutoSaveToOneDrive": {
+    "message": "Файл сохранен в папке \"Расширение Office\" вашего хранилища OneDrive."
+  },
+  "NotificationAutoSaveToSharePoint": {
+    "message": "Мы сохранить файл в папке «Microsoft Office расширение» на ваш OneDrive для бизнеса."
+  },
+  "NotificationAutoSaveButton": {
+    "message": "Больше не показывать"
+  },
+  "NotificationNotSignedIn": {
+    "message": "Войдите в расширение для просмотра и редактирования файлов Office в Интернете."
+  },
+  "NotificationUnsupportedFileType": {
+    "message": "Выберите файл, созданный в Word, Excel или PowerPoint."
+  },
+  "NotificationInvalidSubscription": {
+    "message": "Возможно, ваша подписка на Office 365 не включает OneDrive для бизнеса или срок ее действия истек. Проверьте свою подписку или войдите с помощью учетной записи Майкрософт."
+  },
+  "NotificationWebDocRedirect": {
+    "message": "Документ открывается в браузере с помощью расширения Office"
+  },
+  "NotificationWebDocRedirectButton": {
+    "message": "Больше не показывать"
+  },
+  "OfficeOnlineAppName": {
+    "message": "Office"
+  },
+  "ShareMessage": {
+    "message": "Поделиться"
+  },
+  "SharePermissionsTooltip": {
+    "message": "У вас нет разрешения для общего доступа"
+  },
+  "SharePermissionsErrorMessage": {
+    "message": "Требуется разрешение"
+  },
+  "SupportPageLabel": {
+    "message": "Не удается войти?"
+  },
+  "MyAccountLabel": {
+    "message": "Просмотреть мою учетную запись"
+  },
+  "EditorSpellingToggleLabel": {
+    "message": "Правописание"
+  },
+  "EditorGrammarToggleLabel": {
+    "message": "Грамматика"
+  },
+  "EditorRefinementsToggleLabel": {
+    "message": "Стиль"
+  },
+  "DisableEditorOnThisSiteLabel": {
+    "message": "Выключить редактор на сайте $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EnableEditorOnThisSiteLabel": {
+    "message": "Включить редактор на сайте $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsDisabledOnThisSiteLabel": {
+    "message": "Сейчас редактор выключен на сайте $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsBlockedOnThisSiteLabel": {
+    "message": "Сейчас редактор не поддерживается на сайте $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorPreviewLabel": {
+    "message": "(предварительная версия)"
+  },
+  "ebx_appName": {
+    "message": "Корректор в браузере"
+  },
+  "ebx_appShortName": {
+    "message": "Редактор"
+  },
+  "ebx_appDescription": {
+    "message": "Проверка правописания, грамматики и стиля при вводе текста в браузере на большинстве веб-сайтов."
+  },
+  "ebx_appDescriptionWithOffice": {
+    "message": "Просмотр, изменение и создание файлов Office в браузере и проверка правописания, грамматики и стиля при вводе на большинстве сайтов."
+  },
+  "ebx_appLongDescription": {
+    "message": "Корректор помечает орфографические, грамматические и стилистические ошибки красным, синим или золотым цветом соответственно. Наведите указатель на подчеркнутое слово и выберите нужный вариант или просмотрите сведения об ошибке и о том, как ее исправить.\r\n\r\nКорректор предлагает подписчикам Office 365 расширенные средства проверки правописания. Его интеллектуальные службы автоматически находят орфографические, грамматические и стилистические ошибки.\r\n\r\nУстановив приложение, вы принимаете следующие условия: https://aka.ms/editorchromeextensionterms\r\n\r\nПолитика конфиденциальности: https://aka.ms/privacy\r\n"
+  },
+  "ebx_appLongDescriptionEdge": {
+    "message": "Значок Корректора будет добавлен на панель инструментов Microsoft Edge, что позволит использовать расширенную проверку правописания.\r\n\r\nУстановив приложение, вы принимаете следующие условия: \r\n\r\n"
+  },
+  "ebx_appTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office Online software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "ebx_copyrightLabel": {
+    "message": "Корпорация Майкрософт (Microsoft Corporation), 2019"
+  },
+  "ebx_office365": {
+    "message": "Office 365"
+  },
+  "ebx_optionsPageTitle": {
+    "message": "Параметры Корректора"
+  },
+  "ebx_settings": {
+    "message": "Параметры"
+  },
+  "ebx_proofingLanguage": {
+    "message": "Язык проверки правописания"
+  },
+  "ebx_proofingLanguagePlaceHolder": {
+    "message": "Выберите язык"
+  },
+  "ebx_saveButtonCaption": {
+    "message": "Сохранить"
+  },
+  "ebx_cancelButtonCaption": {
+    "message": "Отмена"
+  },
+  "ebx_userExcludedUrlsTextBoxCaption": {
+    "message": "Вы отключили проверку на перечисленных ниже сайтах. Корректор может автоматически выключаться и на других сайтах, которые содержат конфиденциальные сведения или медленно загружаются."
+  },
+  "ebx_userBlockedSites": {
+    "message": "Заблокированные сайты"
+  },
+  "ebx_userExcludedUrlsErrorCaption": {
+    "message": "Недействительный URL-адрес $url$ в строке $line$.",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "https://microsoft.com"
+      },
+      "line": {
+        "content": "$2",
+        "example": "123"
+      }
+    }
+  },
+  "ebx_userExcludedUrlErrorCaption": {
+    "message": "Недопустимый URL-адрес"
+  },
+  "ebx_showSpellingAndGrammarToggleCaption": {
+    "message": "Показывать варианты исправления ошибок"
+  },
+  "ebx_showSynonymsToggleCaption": {
+    "message": "Показывать синонимы в числе предложений при проверке правописания"
+  },
+  "ebx_comingSoonTooltipTitle": {
+    "message": "Скоро"
+  },
+  "ebx_changeAllCommandLabel": {
+    "message": "Изменить все"
+  },
+  "ebx_changeSettingsCommandLabel": {
+    "message": "Параметры Корректора..."
+  },
+  "ebx_moreButtonArialLabel": {
+    "message": "Дополнительные команды"
+  },
+  "ebx_ignoreAllButtonLabel": {
+    "message": "Пропустить все"
+  },
+  "ebx_suggestionMoreActionsArialLabel": {
+    "message": "Другие действия"
+  },
+  "ebx_brandText": {
+    "message": "Корректор (Майкрософт)"
+  },
+  "ebx_brandTextArialLabel": {
+    "message": "Логотип Корректора (Майкрософт)"
+  },
+  "ebx_brandTextTooltipTitle": {
+    "message": "Проверка правописания на базе инструментов Office"
+  },
+  "ebx_brandTextBrandName": {
+    "message": "Office"
+  },
+  "ebx_showSynonyms": {
+    "message": "Показать синонимы"
+  },
+  "ebx_hideSynonyms": {
+    "message": "Скрыть синонимы"
+  },
+  "ebx_ariaReplaceWith": {
+    "message": "Заменить на"
+  },
+  "ebx_deleteRepeatedWord": {
+    "message": "[Удалить повторяющееся слово]"
+  },
+  "ebx_asInSynonyms": {
+    "message": "как в"
+  },
+  "ebx_goPremiumLine": {
+    "message": "Полезные рекомендации по стилю письма от Корректора."
+  },
+  "ebx_goPremiumLinkText": {
+    "message": "Перейти на Office 365"
+  },
+  "ebx_checkSpelling": {
+    "message": "Проверять правописание"
+  },
+  "ebx_checkGrammar": {
+    "message": "Проверять грамматику"
+  },
+  "ebx_checkForRefinements": {
+    "message": "Проверять стиль"
+  },
+  "ebx_addAnotherSite": {
+    "message": "Добавить другой сайт"
+  },
+  "ebx_goPremiumExplained": {
+    "message": "Рекомендации по стилю письма от Корректора, 1 ТБ места OneDrive и расширенные возможности во всех приложениях Office 365."
+  },
+  "ebx_addAnotherSiteAriaLabel": {
+    "message": "Заблокировать Корректор на другом сайте"
+  },
+  "ebx_addAnotherSiteSubmit": {
+    "message": "Добавить сайт в список заблокированных"
+  },
+  "ebx_addAnotherSiteCancel": {
+    "message": "Отменить добавление сайта в список заблокированных."
+  },
+  "ebx_RemoveItem": {
+    "message": "Удалить"
+  },
+  "ebx_duplicateBlockedSite": {
+    "message": "Этот сайт уже находится в списке заблокированных"
+  },
+  "ebx_editorEnableAnnouncementTitle": {
+    "message": "Вас приветствует расширение Office для браузера"
+  },
+  "ebx_editorEnableAnnouncementText": {
+    "message": "Расширение Office для браузера позволяет просматривать, редактировать и создавать файлы Office в браузере. Оно также включает инструмент \"Корректор\", обеспечивающий проверку орфографии, грамматики и стиля при вводе текста на большинстве веб-сайтов."
+  },
+  "ebx_editorEnableAnnouncementSettings": {
+    "message": "Перейти к параметрам Корректора"
+  },
+  "ebx_feedbackSendTo": {
+    "message": "Редактор доступен в виде внутренней предварительной версии (Майкрософт). Присылайте свои отзывы и сообщайте об ошибках по адресу "
+  }
+}

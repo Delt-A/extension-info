@@ -1,0 +1,462 @@
+{
+  "AppName": {
+    "message": "Office"
+  },
+  "AppShortName": {
+    "message": "Office"
+  },
+  "AppNameEdge": {
+    "message": "Rozšíření Office pro prohlížeč"
+  },
+  "AppFolderName": {
+    "message": "Rozšíření Office"
+  },
+  "AppDescription": {
+    "message": "Umožňuje zobrazit, upravovat a vytvářet dokumenty Office v prohlížeči."
+  },
+  "AppLongDescription": {
+    "message": "Kompatibilita s Chromem: Word, Excel, PowerPoint, OneNote i Sway Online můžete používat, i když si nenainstalujete Office.\r\n\r\nZnámé prostředí: Prostřednictvím známých možností formátování a rozložení můžete vyjádřit svoje myšlenky a nápady bez kompromisů.\r\n\r\nPřístup odkudkoli: Ke svým souborům se můžete dostat odkudkoli díky integraci s OneDrivem a OneDrivem pro firmy.\r\n\r\nNainstalováním aplikace vyjadřujete svůj souhlas s těmito podmínkami a ujednáními: http://aka.ms/officechromeextensionterms\r\n\r\nZásady ochrany osobních údajů: http://aka.ms/privacy\r\n"
+  },
+  "AppLongDescriptionEdge": {
+    "message": "Rozšíření prohlížeče pro Office umístí na panel nástrojů prohlížeče Microsoft Edge ikonu, která vám umožní přímý přístup k souborům Office bez ohledu na to, jestli jsou uložené online nebo na počítači.\r\n\r\nWebové rozšíření Office dokáže otevřít soubory uložené na OneDrivu a na OneDrivu pro firmy.\r\n\r\nFunkce Wordu, Excelu, PowerPointu, OneNotu a Swaye jsou dostupné přímo z prohlížeče, aniž by musel být nainstalovaný Office.\r\n\r\nNainstalováním aplikace vyjadřujete svůj souhlas s těmito podmínkami a ujednáními: \r\n\r\n"
+  },
+  "AppTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "BrowseToOpenLabel": {
+    "message": "Nahrát a otevřít..."
+  },
+  "UploadToOneDriveLabel": {
+    "message": "Nahrát na OneDrive"
+  },
+  "UploadToOneDriveBusinessLabel": {
+    "message": "Nahrát na OneDrive pro firmy"
+  },
+  "AppListLabel": {
+    "message": "Webové aplikace"
+  },
+  "RecentDocsLabel": {
+    "message": "Poslední"
+  },
+  "CreateDocsMessageLabel": {
+    "message": "Žádné naposledy zobrazené dokumenty"
+  },
+  "DocumentsNotFoundMessageLabel": {
+    "message": "V této chvíli nemůžeme načíst seznam vámi naposledy použitých dokumentů."
+  },
+  "LoadingRecentsLabel": {
+    "message": "Načítá se..."
+  },
+  "CreateNewLabel": {
+    "message": "Nové"
+  },
+  "OfflineLabel": {
+    "message": "Jste offline. Pokud chcete používat rozšíření Office pro prohlížeč Chrome, tak se prosím znovu připojte."
+  },
+  "OpenDocumentLabel": {
+    "message": "Otevřít"
+  },
+  "AccountLabel": {
+    "message": "Účet"
+  },
+  "UsernameLabel": {
+    "message": "Bez přihlášení"
+  },
+  "SettingsLabel": {
+    "message": "Nastavení"
+  },
+  "ExcelAppName": {
+    "message": "Excel"
+  },
+  "ExcelOnlineAppName": {
+    "message": "Excel"
+  },
+  "OneDriveAppName": {
+    "message": "OneDrive"
+  },
+  "SharePointAppName": {
+    "message": "SharePoint"
+  },
+  "SharePointSiteAppName": {
+    "message": "SharePoint"
+  },
+  "OutlookAppName": {
+    "message": "Outlook"
+  },
+  "TeamsAppName": {
+    "message": "Teams"
+  },
+  "OneDriveFilesLabel": {
+    "message": "Z OneDrivu"
+  },
+  "O365FilesLabel": {
+    "message": "Z OneDrivu pro firmy"
+  },
+  "OneNoteAppName": {
+    "message": "OneNote"
+  },
+  "OneNoteOnlineAppName": {
+    "message": "OneNote"
+  },
+  "PowerPointAppName": {
+    "message": "PowerPoint"
+  },
+  "PowerPointOnlineAppName": {
+    "message": "PowerPoint"
+  },
+  "SignInLabel": {
+    "message": "Přihlásit se"
+  },
+  "SignInMSALabel": {
+    "message": "Přihlásit se účtem Microsoft"
+  },
+  "SignInO365Label": {
+    "message": "Přihlásit se přes pracovní nebo školní účet"
+  },
+  "SignOutLabel": {
+    "message": "Odhlásit se"
+  },
+  "CreateAccountLabel": {
+    "message": "Vytvořit účet"
+  },
+  "SwayAppName": {
+    "message": "Sway"
+  },
+  "TelemetrySettingLabel": {
+    "message": "Automaticky odesílat data, která nám pomáhají zlepšovat naše produkty"
+  },
+  "WebRedirectSettingLabel": {
+    "message": "Otevírat soubory Office přímo v prohlížeči přes Office"
+  },
+  "MoreFilesLabel": {
+    "message": "Další dokumenty"
+  },
+  "WordAppName": {
+    "message": "Word"
+  },
+  "WordOnlineAppName": {
+    "message": "Word"
+  },
+  "SignInHeaderLabel": {
+    "message": "Kam chcete soubory uložit?"
+  },
+  "NextLabel": {
+    "message": "Přihlásit se"
+  },
+  "CopyrightLabel": {
+    "message": "Microsoft Corporation 2015"
+  },
+  "FileTypeErrorMessage": {
+    "message": "Tento typ souboru se nepodporuje. Vyberte prosím dokument aplikace Word, Excel nebo PowerPoint."
+  },
+  "FeedbackCommentPlaceholder": {
+    "message": "Zadejte prosím svůj komentář."
+  },
+  "FeedbackDontLike": {
+    "message": "Něco se mi nelíbí"
+  },
+  "FeedbackOverall": {
+    "message": "Co byste nám chtěli říct?"
+  },
+  "FeedbackTitle": {
+    "message": "Odeslat názor"
+  },
+  "FeedbackLike": {
+    "message": "Něco se mi líbí"
+  },
+  "FeedbackPrivacyStatement": {
+    "message": "Prohlášení o zásadách ochrany osobních údajů"
+  },
+  "FeedbackSubmit": {
+    "message": "Odeslat"
+  },
+  "FeedbackSuggestion": {
+    "message": "Mám návrh"
+  },
+  "FeedbackWhatLike": {
+    "message": "Co se vám líbilo?"
+  },
+  "FeedbackWhatDontLike": {
+    "message": "Co se vám nelíbilo?"
+  },
+  "FeedbackWhatSuggest": {
+    "message": "Co navrhujete?"
+  },
+  "NotificationFileAccess": {
+    "message": "V nastavení rozšíření pro Chrome zaškrtněte políčko pro povolení přístupu k souborovým adresám URL, pokud chcete přetahovat soubory do Chromu."
+  },
+  "NotificationFileMaxSizeByteLimitReached": {
+    "message": "Rozšíření prohlížeče Office se nepodařilo otevřít dokument vzhledem k velikosti.  Prosím odešlete přímo na OneDrive pro otevření dokumentu."
+  },
+  "NotificationFileUploadFailureGeneric": {
+    "message": "Bohužel nemůžeme váš soubor otevřít."
+  },
+  "NotificationFileUploadFailureServer": {
+    "message": "Bohužel nemůžeme váš soubor otevřít. Zkuste to prosím později."
+  },
+  "NotificationFileUploadFailureUnsupportedMedia": {
+    "message": "Bohužel nemůžeme váš soubor otevřít. Vyberte prosím soubor vytvořený pomocí aplikace Word, Excel nebo PowerPoint"
+  },
+  "NotificationFileUploadInProgress": {
+    "message": "V této chvíli nahráváme vaše dokumenty."
+  },
+  "NotificationSetDefault": {
+    "message": "V aplikaci Soubory klepněte na dokumenty dvěma prsty, aby se otevřely pomocí Office."
+  },
+  "NotificationAutoSaveToOneDrive": {
+    "message": "Soubor jsme uložili do složky Rozšíření Office na vašem OneDrivu."
+  },
+  "NotificationAutoSaveToSharePoint": {
+    "message": "Soubor jsme uložili do složky Rozšíření Office na vašem OneDrivu pro firmy."
+  },
+  "NotificationAutoSaveButton": {
+    "message": "Znovu nezobrazovat"
+  },
+  "NotificationNotSignedIn": {
+    "message": "Přihlaste se do rozšíření, pokud chcete zobrazovat a upravovat soubory přes Office na webu."
+  },
+  "NotificationUnsupportedFileType": {
+    "message": "Zvolte soubor vytvořený pomocí aplikace Word, Excel nebo PowerPoint."
+  },
+  "NotificationInvalidSubscription": {
+    "message": "Pravděpodobně vypršela platnost vašeho předplatného Office 365 nebo předplatné nezahrnuje OneDrive pro firmy. Zkontrolujte si předplatné nebo se přihlaste účtem Microsoft."
+  },
+  "NotificationWebDocRedirect": {
+    "message": "Rozšíření Office otevírá váš dokument v prohlížeči."
+  },
+  "NotificationWebDocRedirectButton": {
+    "message": "Znovu nezobrazovat"
+  },
+  "OfficeOnlineAppName": {
+    "message": "Office"
+  },
+  "ShareMessage": {
+    "message": "Sdílet"
+  },
+  "SharePermissionsTooltip": {
+    "message": "Nemáte oprávnění ke sdílení."
+  },
+  "SharePermissionsErrorMessage": {
+    "message": "Vyžadují se oprávnění."
+  },
+  "SupportPageLabel": {
+    "message": "Potřebujete pomoct s přihlášením?"
+  },
+  "MyAccountLabel": {
+    "message": "Zobrazit můj účet"
+  },
+  "EditorSpellingToggleLabel": {
+    "message": "Pravopis"
+  },
+  "EditorGrammarToggleLabel": {
+    "message": "Gramatika"
+  },
+  "EditorRefinementsToggleLabel": {
+    "message": "Vylepšení"
+  },
+  "DisableEditorOnThisSiteLabel": {
+    "message": "Zakázat Editor na webu $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EnableEditorOnThisSiteLabel": {
+    "message": "Povolit Editor na webu $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsDisabledOnThisSiteLabel": {
+    "message": "Editor je na webu $host$ aktuálně zakázaný.",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsBlockedOnThisSiteLabel": {
+    "message": "Editor není na webu $host$ aktuálně podporovaný.",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorPreviewLabel": {
+    "message": "(Preview)"
+  },
+  "ebx_appName": {
+    "message": "Editor v prohlížeči"
+  },
+  "ebx_appShortName": {
+    "message": "Editor"
+  },
+  "ebx_appDescription": {
+    "message": "Kontrola pravopisu, gramatiky & stylu v prohlížeči při psaní na většině webových stránek."
+  },
+  "ebx_appDescriptionWithOffice": {
+    "message": "V rámci většiny webů můžete zobrazovat, upravovat a vytvářet soubory Office přes prohlížeč a při psaní využívat kontrolu pravopisu, gramatiky a stylu."
+  },
+  "ebx_appLongDescription": {
+    "message": "Editor je vaším pomocníkem pro psaní: Označuje pravopisné chyby červeným podtržením, gramatické chyby modrým podtržením a stylistické chyby zlatým podtržením. Podržte ukazatel myši na podtrženém slově a pak zvolte některý ze zobrazených návrhů nebo si o chybě přečtěte další informace a zjistěte, jakým způsobem ji můžete opravit.\r\n\r\nZískejte při psaní potřebnou sebejistotu: Editor nabízí předplatitelům Office 365 rozšířené nástroje kontroly pravopisu. Inteligentní služby na pozadí dokážou identifikovat pravopisné, gramatické a stylistické chyby.\r\n\r\nNainstalováním aplikace vyjadřujete svůj souhlas s těmito podmínkami a ujednáními: https://aka.ms/editorchromeextensionterms\r\n\r\nZásady ochrany osobních údajů: https://aka.ms/privacy\r\n"
+  },
+  "ebx_appLongDescriptionEdge": {
+    "message": "Editor vloží na panel nástrojů v Microsoft Edgi ikonu, pomocí které je možné zapnout pokročilé nástroje kontroly pravopisu.\r\n\r\nNainstalováním aplikace vyjadřujete svůj souhlas s těmito podmínkami a ujednáními: \r\n\r\n"
+  },
+  "ebx_appTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office Online software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "ebx_copyrightLabel": {
+    "message": "Microsoft Corporation 2019"
+  },
+  "ebx_office365": {
+    "message": "Office 365"
+  },
+  "ebx_optionsPageTitle": {
+    "message": "Nastavení Editoru"
+  },
+  "ebx_settings": {
+    "message": "Nastavení"
+  },
+  "ebx_proofingLanguage": {
+    "message": "Jazyk kontroly pravopisu"
+  },
+  "ebx_proofingLanguagePlaceHolder": {
+    "message": "Vyberte jazyk kontroly pravopisu"
+  },
+  "ebx_saveButtonCaption": {
+    "message": "Uložit"
+  },
+  "ebx_cancelButtonCaption": {
+    "message": "Zrušit"
+  },
+  "ebx_userExcludedUrlsTextBoxCaption": {
+    "message": "U níže uvedených webů jste zakázali kontroly pravopisu a gramatiky. Editor se může automaticky zakázat i na dalších webech s citlivým obsahem nebo pomalou rychlostí načítání."
+  },
+  "ebx_userBlockedSites": {
+    "message": "Blokované weby"
+  },
+  "ebx_userExcludedUrlsErrorCaption": {
+    "message": "Neplatná adresa URL \"$url$\" na řádku $line$",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "https://microsoft.com"
+      },
+      "line": {
+        "content": "$2",
+        "example": "123"
+      }
+    }
+  },
+  "ebx_userExcludedUrlErrorCaption": {
+    "message": "Neplatná adresa URL"
+  },
+  "ebx_showSpellingAndGrammarToggleCaption": {
+    "message": "Zobrazit návrhy kontroly pravopisu a gramatiky"
+  },
+  "ebx_showSynonymsToggleCaption": {
+    "message": "Spolu s návrhy kontroly pravopisu zobrazovat synonyma"
+  },
+  "ebx_comingSoonTooltipTitle": {
+    "message": "Připravujeme"
+  },
+  "ebx_changeAllCommandLabel": {
+    "message": "Změnit vše"
+  },
+  "ebx_changeSettingsCommandLabel": {
+    "message": "Nastavení Editoru..."
+  },
+  "ebx_moreButtonArialLabel": {
+    "message": "Další příkazy"
+  },
+  "ebx_ignoreAllButtonLabel": {
+    "message": "Ignorovat vše"
+  },
+  "ebx_suggestionMoreActionsArialLabel": {
+    "message": "Další akce"
+  },
+  "ebx_brandText": {
+    "message": "Microsoft Editor"
+  },
+  "ebx_brandTextArialLabel": {
+    "message": "Logo Microsoft Editor"
+  },
+  "ebx_brandTextTooltipTitle": {
+    "message": "Kontrola pravopisu používá technologii Office."
+  },
+  "ebx_brandTextBrandName": {
+    "message": "Office"
+  },
+  "ebx_showSynonyms": {
+    "message": "Zobrazit synonyma"
+  },
+  "ebx_hideSynonyms": {
+    "message": "Skrýt synonyma"
+  },
+  "ebx_ariaReplaceWith": {
+    "message": "Nahradit:"
+  },
+  "ebx_deleteRepeatedWord": {
+    "message": "[Odstranit opakující se slovo]"
+  },
+  "ebx_asInSynonyms": {
+    "message": "podobný význam jako:"
+  },
+  "ebx_goPremiumLine": {
+    "message": "Vyzkoušejte návrhy Editoru pro profesionální styl psaní."
+  },
+  "ebx_goPremiumLinkText": {
+    "message": "Přejít na Premium"
+  },
+  "ebx_checkSpelling": {
+    "message": "Zkontrolovat pravopis"
+  },
+  "ebx_checkGrammar": {
+    "message": "Zkontrolovat gramatiku"
+  },
+  "ebx_checkForRefinements": {
+    "message": "Vyhledat návrhy na vylepšení"
+  },
+  "ebx_addAnotherSite": {
+    "message": "Přidat další web"
+  },
+  "ebx_goPremiumExplained": {
+    "message": "Můžete získat návrhy Editoru pro profesionální styl psaní, 1 TB úložiště na OneDrivu a prémiové funkce ve všech aplikacích Office 365."
+  },
+  "ebx_addAnotherSiteAriaLabel": {
+    "message": "Editor pro blokování dalšího webu"
+  },
+  "ebx_addAnotherSiteSubmit": {
+    "message": "Přidat web do seznamu blokovaných webů"
+  },
+  "ebx_addAnotherSiteCancel": {
+    "message": "Můžete zrušit přidání webu do seznamu blokovaných webů."
+  },
+  "ebx_RemoveItem": {
+    "message": "Odebrat"
+  },
+  "ebx_duplicateBlockedSite": {
+    "message": "Tento web už je v seznamu blokovaných webů zařazený."
+  },
+  "ebx_editorEnableAnnouncementTitle": {
+    "message": "Vítá vás rozšíření prohlížeče Office"
+  },
+  "ebx_editorEnableAnnouncementText": {
+    "message": "Rozšíření prohlížeče sady Office umožňuje zobrazovat, upravovat a vytvářet soubory sady Office v prohlížeči. Obsahuje také nástroj pro psaní editoru, který umožňuje kontrolu pravopisu, gramatiky a stylu při psaní na většině webů."
+  },
+  "ebx_editorEnableAnnouncementSettings": {
+    "message": "Přejít do nastavení Editoru"
+  },
+  "ebx_feedbackSendTo": {
+    "message": "Editor je k dispozici v interní verzi Preview společnosti Microsoft. Svoje názory a nalezené chyby prosím zasílejte na adresu "
+  }
+}

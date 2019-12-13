@@ -1,0 +1,462 @@
+{
+  "AppName": {
+    "message": "Office"
+  },
+  "AppShortName": {
+    "message": "Office"
+  },
+  "AppNameEdge": {
+    "message": "Officeova razširitev za brskalnik"
+  },
+  "AppFolderName": {
+    "message": "Officeova razširitev"
+  },
+  "AppDescription": {
+    "message": "V brskalniku si lahko Officeove dokumente ogledate, jih urejate in ustvarjate."
+  },
+  "AppLongDescription": {
+    "message": "Ustvarjena za Chrome – Word, Excel, PowerPoint, OneNote in Sway Online lahko odslej uporabljate tudi brez nameščenega Officea.\r\n\r\nUstvarjajte suvereno – uporabite znane možnosti za oblikovanje in postavitev in z njimi v celoti izrazite svoje zamisli.\r\n\r\nV pisarni ali na poti – do svojih datotek lahko dostopite kjer koli, saj to omogoča integracija s storitvama OneDrive in OneDrive za podjetja.\r\n\r\nZ namestitvijo aplikacije se strinjate s temi pogoji in določili: http://aka.ms/officechromeextensionterms\r\n\r\nIzjava o zasebnosti: http://aka.ms/privacy\r\n"
+  },
+  "AppLongDescriptionEdge": {
+    "message": "Officeova razširitev za brskalnik postavi v orodno vrstico brskalnika Microsoft Edge ikono, ki omogoča neposreden dostop do Officeovih datotek, ne glede na to, ali so shranjene v spletu ali v računalniku.\r\n\r\nOfficeova razširitev za splet omogoča odpiranje datotek, shranjenih v storitvah OneDrive in OneDrive za podjetja.\r\n\r\nDobite funkcije programov Word, Excel, PowerPoint, OneNote in Sway neposredno v brskalniku, pri tem pa vam ni treba nameščati Officea.\r\n\r\nZ namestitvijo aplikacije se strinjate s temi pogoji in določili: \r\n\r\n"
+  },
+  "AppTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "BrowseToOpenLabel": {
+    "message": "Naloži in odpri ..."
+  },
+  "UploadToOneDriveLabel": {
+    "message": "Naloži v OneDrive"
+  },
+  "UploadToOneDriveBusinessLabel": {
+    "message": "Naloži v OneDrive za podjetja"
+  },
+  "AppListLabel": {
+    "message": "Web Apps"
+  },
+  "RecentDocsLabel": {
+    "message": "Nedavno"
+  },
+  "CreateDocsMessageLabel": {
+    "message": "Ni nedavno ogledanih dokumentov."
+  },
+  "DocumentsNotFoundMessageLabel": {
+    "message": "Trenutno ne moremo dobiti seznama vaših nedavnih dokumentov."
+  },
+  "LoadingRecentsLabel": {
+    "message": "Nalaganje ..."
+  },
+  "CreateNewLabel": {
+    "message": "Novo"
+  },
+  "OfflineLabel": {
+    "message": "Nimate vzpostavljene povezave. Če želite uporabljati Officeovo razširitev za brskalnik Chrome, jo znova vzpostavite."
+  },
+  "OpenDocumentLabel": {
+    "message": "Odpri"
+  },
+  "AccountLabel": {
+    "message": "Račun"
+  },
+  "UsernameLabel": {
+    "message": "Niste vpisani"
+  },
+  "SettingsLabel": {
+    "message": "Nastavitve"
+  },
+  "ExcelAppName": {
+    "message": "Excel"
+  },
+  "ExcelOnlineAppName": {
+    "message": "Excel"
+  },
+  "OneDriveAppName": {
+    "message": "OneDrive"
+  },
+  "SharePointAppName": {
+    "message": "SharePoint"
+  },
+  "SharePointSiteAppName": {
+    "message": "SharePoint"
+  },
+  "OutlookAppName": {
+    "message": "Outlook"
+  },
+  "TeamsAppName": {
+    "message": "Teams"
+  },
+  "OneDriveFilesLabel": {
+    "message": "Iz storitve OneDrive"
+  },
+  "O365FilesLabel": {
+    "message": "Iz storitve OneDrive za podjetja"
+  },
+  "OneNoteAppName": {
+    "message": "OneNote"
+  },
+  "OneNoteOnlineAppName": {
+    "message": "OneNote"
+  },
+  "PowerPointAppName": {
+    "message": "PowerPoint"
+  },
+  "PowerPointOnlineAppName": {
+    "message": "PowerPoint"
+  },
+  "SignInLabel": {
+    "message": "Vpis"
+  },
+  "SignInMSALabel": {
+    "message": "Vpišite se z Microsoftovim računom"
+  },
+  "SignInO365Label": {
+    "message": "Vpišite se s službenim ali šolskim računom"
+  },
+  "SignOutLabel": {
+    "message": "Izpis"
+  },
+  "CreateAccountLabel": {
+    "message": "Ustvarite račun"
+  },
+  "SwayAppName": {
+    "message": "Sway"
+  },
+  "TelemetrySettingLabel": {
+    "message": "Samodejno pošljite podatke, da nam boste pomagali izboljšati izdelke."
+  },
+  "WebRedirectSettingLabel": {
+    "message": "Odpirajte Officeove datoteke z Officeom neposredno v brskalniku."
+  },
+  "MoreFilesLabel": {
+    "message": "Več dokumentov"
+  },
+  "WordAppName": {
+    "message": "Word"
+  },
+  "WordOnlineAppName": {
+    "message": "Word"
+  },
+  "SignInHeaderLabel": {
+    "message": "Kam želite shraniti datoteke?"
+  },
+  "NextLabel": {
+    "message": "Vpis"
+  },
+  "CopyrightLabel": {
+    "message": "Microsoft Corporation 2015"
+  },
+  "FileTypeErrorMessage": {
+    "message": "Vrsta datoteke ni podprta. Izberite Wordov, Excelov ali PowerPointov dokument."
+  },
+  "FeedbackCommentPlaceholder": {
+    "message": "Vnesite pripombo"
+  },
+  "FeedbackDontLike": {
+    "message": "Nekaj mi ni všeč"
+  },
+  "FeedbackOverall": {
+    "message": "Kakšne povratne informacije imate?"
+  },
+  "FeedbackTitle": {
+    "message": "Pošlji povratne informacije"
+  },
+  "FeedbackLike": {
+    "message": "Nekaj mi je všeč"
+  },
+  "FeedbackPrivacyStatement": {
+    "message": "Izjava o zasebnosti"
+  },
+  "FeedbackSubmit": {
+    "message": "Pošlji"
+  },
+  "FeedbackSuggestion": {
+    "message": "Imam predlog"
+  },
+  "FeedbackWhatLike": {
+    "message": "Kaj vam je bilo všeč?"
+  },
+  "FeedbackWhatDontLike": {
+    "message": "Kaj vam ni bilo všeč?"
+  },
+  "FeedbackWhatSuggest": {
+    "message": "Kaj predlagate?"
+  },
+  "NotificationFileAccess": {
+    "message": "V nastavitvah razširitve brskalnika Chrome potrdite polje »Dovoli dostop do URL-jev datoteke«, če želite datoteke povleči in spustiti v Chrome."
+  },
+  "NotificationFileMaxSizeByteLimitReached": {
+    "message": "Razširitev brskalnika Office ne more odpreti dokumenta zaradi velikosti.  Prosimo, naložite neposredno na OneDrive za odpiranje dokumenta."
+  },
+  "NotificationFileUploadFailureGeneric": {
+    "message": "Datoteke žal ni mogoče odpreti."
+  },
+  "NotificationFileUploadFailureServer": {
+    "message": "Datoteke žal ni mogoče odpreti. Poskusite znova pozneje."
+  },
+  "NotificationFileUploadFailureUnsupportedMedia": {
+    "message": "Vaše datoteke žal ni mogoče odpreti. Izberite datoteko, ki je bila ustvarjena z Wordom, Excelom ali PowerPointom"
+  },
+  "NotificationFileUploadInProgress": {
+    "message": "Trenutno nalagamo vaše dokumente."
+  },
+  "NotificationSetDefault": {
+    "message": "V aplikaciji Datoteke tapnite dokumente z dvema prstoma, da jih odprete z Officeom."
+  },
+  "NotificationAutoSaveToOneDrive": {
+    "message": "Vašo datoteko smo shranili v mapo »Officeova razširitev« v storitvi OneDrive."
+  },
+  "NotificationAutoSaveToSharePoint": {
+    "message": "Vašo datoteko smo shranili v mapo »Officeova razširitev« v storitvi OneDrive za podjetja."
+  },
+  "NotificationAutoSaveButton": {
+    "message": "Tega ne kaži več"
+  },
+  "NotificationNotSignedIn": {
+    "message": "Vpišite se v razširitev, če si želite ogledati in urejati datoteke v Officeu v spletu."
+  },
+  "NotificationUnsupportedFileType": {
+    "message": "Izberite datoteko, ki je bila ustvarjena z Wordom, Excelom ali PowerPointom."
+  },
+  "NotificationInvalidSubscription": {
+    "message": "Vaša naročnina na Office 365 je morda potekla ali pa ne vključuje storitve OneDrive za podjetja. Preverite naročnino ali pa se prijavite z Microsoftovim računom."
+  },
+  "NotificationWebDocRedirect": {
+    "message": "Officeova razširitev odpira vaš dokument v brskalniku"
+  },
+  "NotificationWebDocRedirectButton": {
+    "message": "Tega ne kaži več"
+  },
+  "OfficeOnlineAppName": {
+    "message": "Office"
+  },
+  "ShareMessage": {
+    "message": "Daj v skupno rabo"
+  },
+  "SharePermissionsTooltip": {
+    "message": "Nimate dovoljenja za skupno rabo"
+  },
+  "SharePermissionsErrorMessage": {
+    "message": "Zahtevano je dovoljenje"
+  },
+  "SupportPageLabel": {
+    "message": "Ali potrebujete pomoč pri prijavi?"
+  },
+  "MyAccountLabel": {
+    "message": "Pokaži moj račun"
+  },
+  "EditorSpellingToggleLabel": {
+    "message": "Črkovanje"
+  },
+  "EditorGrammarToggleLabel": {
+    "message": "Slovnica"
+  },
+  "EditorRefinementsToggleLabel": {
+    "message": "Izboljšave"
+  },
+  "DisableEditorOnThisSiteLabel": {
+    "message": "Onemogoči Urejevalnik v gostitelju $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EnableEditorOnThisSiteLabel": {
+    "message": "Omogoči urejevalnik v gostitelju $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsDisabledOnThisSiteLabel": {
+    "message": "Urejevalnik je trenutno onemogočen v gostitelju $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsBlockedOnThisSiteLabel": {
+    "message": "Urejevalnik trenutno ni podprt v gostitelju $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorPreviewLabel": {
+    "message": "(Preview)"
+  },
+  "ebx_appName": {
+    "message": "Urejevalnik v brskalniku"
+  },
+  "ebx_appShortName": {
+    "message": "Urejevalnik"
+  },
+  "ebx_appDescription": {
+    "message": "Dobite orodja za preverjanje črkovanja, slovnice in sloga med tipkanjem v brskalniku na večini spletnih mest."
+  },
+  "ebx_appDescriptionWithOffice": {
+    "message": "Pregledujte, urejajte in ustvarjajte Officeove datoteke v brskalniku ter izkoristite preverjanje črkovanja, slovnice in sloga med tipkanjem na večini spletnih mest."
+  },
+  "ebx_appLongDescription": {
+    "message": "Urejevalnik je vaš pomočnik za pisanje – Urejevalnik napake črkovanja, slovnice in sloga podčrta z rdečo, modro ali zlato barvo. Premaknite kazalec na podčrtano besedo, nato pa izberite želeni predlog. Lahko pa tudi izveste več o napaki in preberete navodila, kako napako odpravite.\r\n\r\nUstvarjajte suvereno – Urejevalnik nudi naročnikom na Office 365 izboljšana orodja za preverjanje. Pametne storitve v zakulisju zaznavajo napake črkovanja in slovnice ter slogovne napake.\r\n\r\nZ namestitvijo aplikacije sprejemate te pogoje in določila: https://aka.ms/editorchromeextensionterms\r\n\r\nPravilnik o zasebnosti: https://aka.ms/privacy\r\n"
+  },
+  "ebx_appLongDescriptionEdge": {
+    "message": "Urejevalnik postavi ikono v orodno vrstico brskalnika Microsoft Edge, ki omogoča napredno preverjanje.\r\n\r\nZ namestitvijo aplikacije sprejemate te pogoje in določila: \r\n\r\n"
+  },
+  "ebx_appTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office Online software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "ebx_copyrightLabel": {
+    "message": "Microsoft Corporation 2019"
+  },
+  "ebx_office365": {
+    "message": "Office 365"
+  },
+  "ebx_optionsPageTitle": {
+    "message": "Nastavitve urejevalnika"
+  },
+  "ebx_settings": {
+    "message": "Nastavitve"
+  },
+  "ebx_proofingLanguage": {
+    "message": "Jezik za preverjanje"
+  },
+  "ebx_proofingLanguagePlaceHolder": {
+    "message": "Izberite jezik"
+  },
+  "ebx_saveButtonCaption": {
+    "message": "Shrani"
+  },
+  "ebx_cancelButtonCaption": {
+    "message": "Prekliči"
+  },
+  "ebx_userExcludedUrlsTextBoxCaption": {
+    "message": "Onemogočili ste preverjanje na spodaj navedenih spletnih mestih. Urejevalnik bo morda samodejno onemogočen na dodatnih spletnih mestih z občutljivo vsebino ali nizko hitrostjo nalaganja."
+  },
+  "ebx_userBlockedSites": {
+    "message": "Blokirana spletna mesta"
+  },
+  "ebx_userExcludedUrlsErrorCaption": {
+    "message": "Neveljaven URL »$url$« v vrstici $line$.",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "https://microsoft.com"
+      },
+      "line": {
+        "content": "$2",
+        "example": "123"
+      }
+    }
+  },
+  "ebx_userExcludedUrlErrorCaption": {
+    "message": "Neveljaven URL"
+  },
+  "ebx_showSpellingAndGrammarToggleCaption": {
+    "message": "Pokaži predloge za črkovanje in slovnico"
+  },
+  "ebx_showSynonymsToggleCaption": {
+    "message": "Pokaži sopomenke za predloge črkovanja"
+  },
+  "ebx_comingSoonTooltipTitle": {
+    "message": "Kmalu na voljo"
+  },
+  "ebx_changeAllCommandLabel": {
+    "message": "Spremeni vse"
+  },
+  "ebx_changeSettingsCommandLabel": {
+    "message": "Nastavitve urejevalnika ..."
+  },
+  "ebx_moreButtonArialLabel": {
+    "message": "Več ukazov"
+  },
+  "ebx_ignoreAllButtonLabel": {
+    "message": "Prezri vse"
+  },
+  "ebx_suggestionMoreActionsArialLabel": {
+    "message": "Več dejanj"
+  },
+  "ebx_brandText": {
+    "message": "Microsoftov urejevalnik"
+  },
+  "ebx_brandTextArialLabel": {
+    "message": "Logotip za Microsoftov urejevalnik"
+  },
+  "ebx_brandTextTooltipTitle": {
+    "message": "Preverjanje s tehnologijo Officea"
+  },
+  "ebx_brandTextBrandName": {
+    "message": "Office"
+  },
+  "ebx_showSynonyms": {
+    "message": "Pokaži sopomenke"
+  },
+  "ebx_hideSynonyms": {
+    "message": "Skrij sopomenke"
+  },
+  "ebx_ariaReplaceWith": {
+    "message": "Zamenjaj s skupino"
+  },
+  "ebx_deleteRepeatedWord": {
+    "message": "[Izbrišite ponovljeno besedo]"
+  },
+  "ebx_asInSynonyms": {
+    "message": "kot v"
+  },
+  "ebx_goPremiumLine": {
+    "message": "Preskusite napredne zamisli pisanja v urejevalniku."
+  },
+  "ebx_goPremiumLinkText": {
+    "message": "Začnite uporabljati različico Premium"
+  },
+  "ebx_checkSpelling": {
+    "message": "Preveri črkovanje"
+  },
+  "ebx_checkGrammar": {
+    "message": "Preveri slovnico"
+  },
+  "ebx_checkForRefinements": {
+    "message": "Preveri podrobnosti"
+  },
+  "ebx_addAnotherSite": {
+    "message": "Dodaj drugo spletno mesto"
+  },
+  "ebx_goPremiumExplained": {
+    "message": "Pridobite napredne predloge za pisanje urejevalnika, 1 TB shrambe v storitvi OneDrive in prvovrstne funkcije v vseh aplikacijah Office 365."
+  },
+  "ebx_addAnotherSiteAriaLabel": {
+    "message": "Blokiraj Urejevalnik na drugem spletnem mestu"
+  },
+  "ebx_addAnotherSiteSubmit": {
+    "message": "Dodaj spletno mesto na seznam blokiranih spletnih mest."
+  },
+  "ebx_addAnotherSiteCancel": {
+    "message": "Prekliči dodajanje spletnega mesta na seznam blokiranih spletnih mest."
+  },
+  "ebx_RemoveItem": {
+    "message": "Odstrani"
+  },
+  "ebx_duplicateBlockedSite": {
+    "message": "To spletno mesto je že na seznamu blokiranih spletnih mest"
+  },
+  "ebx_editorEnableAnnouncementTitle": {
+    "message": "Dobrodošli v Officeovi razširitvi za brskalnik"
+  },
+  "ebx_editorEnableAnnouncementText": {
+    "message": "Officeova razširitev za brskalnik omogoča ogled, urejanje in ustvarjanje Officeovih datotek v brskalniku. Vključuje tudi orodje za pisanje Urejevalnik, ki na večini spletnih mest omogoča preverjanje črkovanja, slovnice in sloga med pisanjem."
+  },
+  "ebx_editorEnableAnnouncementSettings": {
+    "message": "Pojdi v razdelek z nastavitvami Urejevalnika"
+  },
+  "ebx_feedbackSendTo": {
+    "message": "Urejevalnik je na voljo kot Microsoft Internal Preview. Povratne informacije in napake pošljite na naslov "
+  }
+}

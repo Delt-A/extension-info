@@ -1,0 +1,462 @@
+{
+  "AppName": {
+    "message": "Office"
+  },
+  "AppShortName": {
+    "message": "Office"
+  },
+  "AppNameEdge": {
+    "message": "„Office“ naršyklės plėtinys"
+  },
+  "AppFolderName": {
+    "message": "„Office“ plėtinys"
+  },
+  "AppDescription": {
+    "message": "Peržiūrėkite, redaguokite ir kurkite „Office“ dokumentus savo naršyklėje."
+  },
+  "AppLongDescription": {
+    "message": "Skirta „Chrome“ – „Word“, „Excel“, „PowerPoint“, „OneNote“ ir „Sway Online“ naudokite neįdiegę „Office“.\r\n\r\nKurkite užtikrintai – naudokite žinomas formatavimo ir maketo parinktis visoms savo idėjoms išreikšti.\r\n\r\nDirbkite keliaudami – gaukite failus iš bet kurios vietos pasinaudoję integruotomis „OneDrive ir „OneDrive“ verslui.\r\n\r\nĮdiegdami programą, jūs sutinkate su šiomis sąlygomis: http://aka.ms/officechromeextensionterms\r\n\r\nPrivatumo strategija: http://aka.ms/privacy\r\n"
+  },
+  "AppLongDescriptionEdge": {
+    "message": "„Microsoft Edge\" įrankių juostoje „Office“ naršyklės plėtinys įdeda piktogramą, kuri suteikia tiesioginę prieigą prie „Office“ failų, nesvarbu, ar jie būtų saugomi internete, ar kompiuteryje.\r\n\r\nInternetinės „Office“ plėtinys gali atidaryti failus, saugomus „OneDrive“ ir „OneDrive“ verslui.\r\n\r\nGalėsite naudotis „Word“, „Excel“, „PowerPoint“, „OneNote“ ir „Sway“ funkcijomis tiesiai savo naršyklėje nediegdami „Office“.\r\n\r\nDiegdami programą, sutinkate su šiomis sąlygomis: \r\n\r\n"
+  },
+  "AppTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "BrowseToOpenLabel": {
+    "message": "Nusiųsti ir atidaryti..."
+  },
+  "UploadToOneDriveLabel": {
+    "message": "Nusiųsti į „OneDrive“"
+  },
+  "UploadToOneDriveBusinessLabel": {
+    "message": "Nusiųsti į „OneDrive“ verslui"
+  },
+  "AppListLabel": {
+    "message": "Web Apps"
+  },
+  "RecentDocsLabel": {
+    "message": "Naujausi"
+  },
+  "CreateDocsMessageLabel": {
+    "message": "Nėra vėliausiai peržiūrėtų dokumentų."
+  },
+  "DocumentsNotFoundMessageLabel": {
+    "message": "Šiuo metu negalime gauti naujausių jūsų dokumentų sąrašo."
+  },
+  "LoadingRecentsLabel": {
+    "message": "Įkeliama..."
+  },
+  "CreateNewLabel": {
+    "message": "Naujas"
+  },
+  "OfflineLabel": {
+    "message": "Esate atsijungę. Iš naujo prisijunkite prie „Office“ naršyklės plėtinio, skirto „Chrome“."
+  },
+  "OpenDocumentLabel": {
+    "message": "Atidaryti"
+  },
+  "AccountLabel": {
+    "message": "Paskyra"
+  },
+  "UsernameLabel": {
+    "message": "Neprisijungęs"
+  },
+  "SettingsLabel": {
+    "message": "Parametrai"
+  },
+  "ExcelAppName": {
+    "message": "Excel"
+  },
+  "ExcelOnlineAppName": {
+    "message": "Excel"
+  },
+  "OneDriveAppName": {
+    "message": "OneDrive"
+  },
+  "SharePointAppName": {
+    "message": "SharePoint"
+  },
+  "SharePointSiteAppName": {
+    "message": "SharePoint"
+  },
+  "OutlookAppName": {
+    "message": "Outlook"
+  },
+  "TeamsAppName": {
+    "message": "Komandos"
+  },
+  "OneDriveFilesLabel": {
+    "message": "Iš „OneDrive“"
+  },
+  "O365FilesLabel": {
+    "message": "Iš „OneDrive“ verslui"
+  },
+  "OneNoteAppName": {
+    "message": "OneNote"
+  },
+  "OneNoteOnlineAppName": {
+    "message": "OneNote"
+  },
+  "PowerPointAppName": {
+    "message": "PowerPoint"
+  },
+  "PowerPointOnlineAppName": {
+    "message": "PowerPoint"
+  },
+  "SignInLabel": {
+    "message": "Prisijungti"
+  },
+  "SignInMSALabel": {
+    "message": "Prisijunkite naudodami „Microsoft“ paskyrą"
+  },
+  "SignInO365Label": {
+    "message": "Prisijunkite naudodami darbo arba mokymo įstaigos paskyrą"
+  },
+  "SignOutLabel": {
+    "message": "Atsijungti"
+  },
+  "CreateAccountLabel": {
+    "message": "Kurti paskyrą"
+  },
+  "SwayAppName": {
+    "message": "Sway"
+  },
+  "TelemetrySettingLabel": {
+    "message": "Automatiškai siųskite duomenis, kad padėtumėte tobulinti mūsų produktus."
+  },
+  "WebRedirectSettingLabel": {
+    "message": "Atidaryti „Office“ failus tiesiai naršyklėje, naudojant „Office“."
+  },
+  "MoreFilesLabel": {
+    "message": "Daugiau dokumentų"
+  },
+  "WordAppName": {
+    "message": "Word"
+  },
+  "WordOnlineAppName": {
+    "message": "Word"
+  },
+  "SignInHeaderLabel": {
+    "message": "Kur norite įrašyti failus?"
+  },
+  "NextLabel": {
+    "message": "Prisijungti"
+  },
+  "CopyrightLabel": {
+    "message": "Microsoft Corporation 2015"
+  },
+  "FileTypeErrorMessage": {
+    "message": "Failo tipas nepalaikomas. Pasirinkite „Word“, „Excel“ arba „PowerPoint“ dokumentą."
+  },
+  "FeedbackCommentPlaceholder": {
+    "message": "Įveskite savo komentarą"
+  },
+  "FeedbackDontLike": {
+    "message": "Man kai kas nepatinka"
+  },
+  "FeedbackOverall": {
+    "message": "Kokio tipo atsiliepimą norite pateikti?"
+  },
+  "FeedbackTitle": {
+    "message": "Siųsti atsiliepimą"
+  },
+  "FeedbackLike": {
+    "message": "Man kai kas patinka"
+  },
+  "FeedbackPrivacyStatement": {
+    "message": "Privatumo patvirtinimas"
+  },
+  "FeedbackSubmit": {
+    "message": "Pateikti"
+  },
+  "FeedbackSuggestion": {
+    "message": "Turiu pasiūlymą"
+  },
+  "FeedbackWhatLike": {
+    "message": "Kas jums patinka?"
+  },
+  "FeedbackWhatDontLike": {
+    "message": "Kas jums nepatinka?"
+  },
+  "FeedbackWhatSuggest": {
+    "message": "Ką siūlote?"
+  },
+  "NotificationFileAccess": {
+    "message": "Jei norite failus nuvilkti į „Chrome“, „Chrome“ plėtinio parametruose pasirinkite žymės langelį Leisti prieigą prie failų URL."
+  },
+  "NotificationFileMaxSizeByteLimitReached": {
+    "message": "„Office“ plėtinys negali atidaryti dokumento, nes jis per didelis. Norėdami atidaryti dokumentą įkelkite jį tiesiai į „OneDrive“."
+  },
+  "NotificationFileUploadFailureGeneric": {
+    "message": "Deja, nepavyko atidaryti jūsų failo."
+  },
+  "NotificationFileUploadFailureServer": {
+    "message": "Deja, nepavyko atidaryti jūsų failo. Bandykite dar kartą vėliau."
+  },
+  "NotificationFileUploadFailureUnsupportedMedia": {
+    "message": "Deja, nepavyko atidaryti jūsų failo. Pasirinkite failą, sukurtą naudojant „Word“, „Excel“ arba „PowerPoint“"
+  },
+  "NotificationFileUploadInProgress": {
+    "message": "Šiuo metu įkeliame jūsų dokumentus."
+  },
+  "NotificationSetDefault": {
+    "message": "Norėdami atidaryti dokumentus naudodami „Office“, programėlėje Failai bakstelėkite juos dviem pirštais."
+  },
+  "NotificationAutoSaveToOneDrive": {
+    "message": "Šį failą įrašėme į jūsų „OneDrive“ aplanką „Office“ plėtinys."
+  },
+  "NotificationAutoSaveToSharePoint": {
+    "message": "Šį failą įrašėme į jūsų „OneDrive“ verslui aplanką „Office“ plėtinys."
+  },
+  "NotificationAutoSaveButton": {
+    "message": "Daugiau to nerodyti"
+  },
+  "NotificationNotSignedIn": {
+    "message": "Prisijunkite prie plėtinio ir peržiūrėkite bei redaguokite internetinio „Office“ failus."
+  },
+  "NotificationUnsupportedFileType": {
+    "message": "Pasirinkite failą, sukurtą naudojant „Word“, „Excel“ arba „PowerPoint“."
+  },
+  "NotificationInvalidSubscription": {
+    "message": "Jūsų „Office 365“ prenumerata pasibaigusi arba į ją neįtraukta „OneDrive“ verslui. Patikrinkite prenumeratą arba prisijunkite naudodami „Microsoft“ paskyrą."
+  },
+  "NotificationWebDocRedirect": {
+    "message": "„Office“ plėtinys atidaro jūsų dokumentą naršyklėje"
+  },
+  "NotificationWebDocRedirectButton": {
+    "message": "Daugiau nerodyti"
+  },
+  "OfficeOnlineAppName": {
+    "message": "Office"
+  },
+  "ShareMessage": {
+    "message": "Bendrinti"
+  },
+  "SharePermissionsTooltip": {
+    "message": "Neturite teisės bendrinti"
+  },
+  "SharePermissionsErrorMessage": {
+    "message": "Reikalingos teisės"
+  },
+  "SupportPageLabel": {
+    "message": "Reikia pagalbos prisijungiant?"
+  },
+  "MyAccountLabel": {
+    "message": "Rodyti mano paskyrą"
+  },
+  "EditorSpellingToggleLabel": {
+    "message": "Rašyba"
+  },
+  "EditorGrammarToggleLabel": {
+    "message": "Gramatika"
+  },
+  "EditorRefinementsToggleLabel": {
+    "message": "Patobulinimai"
+  },
+  "DisableEditorOnThisSiteLabel": {
+    "message": "Išjungti redaktorių $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EnableEditorOnThisSiteLabel": {
+    "message": "Įjungti redaktorių puslapyje $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsDisabledOnThisSiteLabel": {
+    "message": "Redaktorius šiuo metu puslapyje $host$ išjungtas",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsBlockedOnThisSiteLabel": {
+    "message": "Redaktorius šiuo metu puslapyje $host$ nepalaikomas",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorPreviewLabel": {
+    "message": "(Peržiūra)"
+  },
+  "ebx_appName": {
+    "message": "Redaktorius naršyklėje"
+  },
+  "ebx_appShortName": {
+    "message": "Redaktorius"
+  },
+  "ebx_appDescription": {
+    "message": "Naudokitės rašybos, gramatikos bei stiliaus tikrintuvu naršyklėje vesdami tekstą daugumoje svetainių."
+  },
+  "ebx_appDescriptionWithOffice": {
+    "message": "Peržiūrėkite, redaguokite ir kurkite „Office“ failus naršyklėje ir naudokitės rašybos, gramatikos bei stiliaus tikrintuvu vesdami tekstą daugumoje svetainių."
+  },
+  "ebx_appLongDescription": {
+    "message": "Redaktorius yra jūsų rašymo pagalbinė priemonė – Redaktorius pažymi rašybos, gramatikos ir stilistines klaidas, atitinkamai, raudonu, mėlynu arba aukso spalvos pabraukimu. Užveskite pelės žymeklį virš pabrauktojo žodžio ir pasirinkite norimą pasiūlymą arba sužinokite daugiau apie klaidą ir kaip ją ištaisyti.\r\n\r\nKurkite užtikrintai – Redaktorius „Office 365“ prenumeratoriams pateikia patobulintus tikrinimo įrankius. Pažangios paslaugos identifikuoja rašybos, gramatikos ir stilistines klaidas fone.\r\n\r\nĮdiegdami programą jūs sutinkate su šiomis sąlygomis: https://aka.ms/editorchromeextensionterms\r\n\r\nPrivatumo politika: https://aka.ms/privacy\r\n"
+  },
+  "ebx_appLongDescriptionEdge": {
+    "message": "Redaktorius pateikia piktogramą „Microsoft Edge“ įrankių juostoje, kuri įgalina išplėstinį tikrinimą.\r\n\r\nĮdiegdami programą jūs sutinkate su šiomis sąlygomis: \r\n\r\n"
+  },
+  "ebx_appTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office Online software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "ebx_copyrightLabel": {
+    "message": "„Microsoft Corporation“ 2019 m."
+  },
+  "ebx_office365": {
+    "message": "Office 365"
+  },
+  "ebx_optionsPageTitle": {
+    "message": "Redaktoriaus parametrai"
+  },
+  "ebx_settings": {
+    "message": "Parametrai"
+  },
+  "ebx_proofingLanguage": {
+    "message": "Tikrinimo kalba"
+  },
+  "ebx_proofingLanguagePlaceHolder": {
+    "message": "Pasirinkite tikrinimo kalbą"
+  },
+  "ebx_saveButtonCaption": {
+    "message": "Įrašyti"
+  },
+  "ebx_cancelButtonCaption": {
+    "message": "Atšaukti"
+  },
+  "ebx_userExcludedUrlsTextBoxCaption": {
+    "message": "Išjungėte rašybos tikrinimą toliau išvardytose svetainėse. Redaktorius gali būti automatiškai išjungtas ir kitose svetainėse, kuriose yra slapto turinio arba jos lėtai įkeliamos."
+  },
+  "ebx_userBlockedSites": {
+    "message": "Užblokuotos svetainės"
+  },
+  "ebx_userExcludedUrlsErrorCaption": {
+    "message": "Eilutėje $line$ netinkamas URL $url$.",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "https://microsoft.com"
+      },
+      "line": {
+        "content": "$2",
+        "example": "123"
+      }
+    }
+  },
+  "ebx_userExcludedUrlErrorCaption": {
+    "message": "Neleistinas URL"
+  },
+  "ebx_showSpellingAndGrammarToggleCaption": {
+    "message": "Rodyti rašybos ir gramatikos pasiūlymus"
+  },
+  "ebx_showSynonymsToggleCaption": {
+    "message": "Rodyti rašybos pasiūlymų sinonimus"
+  },
+  "ebx_comingSoonTooltipTitle": {
+    "message": "Jau netrukus"
+  },
+  "ebx_changeAllCommandLabel": {
+    "message": "Keisti viską"
+  },
+  "ebx_changeSettingsCommandLabel": {
+    "message": "Redaktoriaus parametrai..."
+  },
+  "ebx_moreButtonArialLabel": {
+    "message": "Daugiau komandų"
+  },
+  "ebx_ignoreAllButtonLabel": {
+    "message": "Nepaisyti visko"
+  },
+  "ebx_suggestionMoreActionsArialLabel": {
+    "message": "Daugiau veiksmų"
+  },
+  "ebx_brandText": {
+    "message": "Microsoft Editor"
+  },
+  "ebx_brandTextArialLabel": {
+    "message": "„Microsoft Editor“ logotipas"
+  },
+  "ebx_brandTextTooltipTitle": {
+    "message": "„Office“ reikiamas tikrinimas"
+  },
+  "ebx_brandTextBrandName": {
+    "message": "Office"
+  },
+  "ebx_showSynonyms": {
+    "message": "Rodyti sinonimus"
+  },
+  "ebx_hideSynonyms": {
+    "message": "Slėpti sinonimus"
+  },
+  "ebx_ariaReplaceWith": {
+    "message": "Pakeisti"
+  },
+  "ebx_deleteRepeatedWord": {
+    "message": "[Naikinti pasikartojantį žodį]"
+  },
+  "ebx_asInSynonyms": {
+    "message": "kaip"
+  },
+  "ebx_goPremiumLine": {
+    "message": "Išbandykite „Editor“ pažangias rašymo idėjas."
+  },
+  "ebx_goPremiumLinkText": {
+    "message": "Gaukite „Premium“"
+  },
+  "ebx_checkSpelling": {
+    "message": "Tikrinti rašybą"
+  },
+  "ebx_checkGrammar": {
+    "message": "Tikrinti gramatiką ir rašybą"
+  },
+  "ebx_checkForRefinements": {
+    "message": "Tikrinti, ar yra patobulinimų"
+  },
+  "ebx_addAnotherSite": {
+    "message": "Įtraukti kitą svetainę"
+  },
+  "ebx_goPremiumExplained": {
+    "message": "Gaukite \"Editor\" išplėstines rašymo idėjas, 1 TB \"OneDrive\" saugyklą ir aukščiausios kokybės funkcijas visose \"Office 365\" programose."
+  },
+  "ebx_addAnotherSiteAriaLabel": {
+    "message": "Blokuoti Redaktorių kitoje svetainėje"
+  },
+  "ebx_addAnotherSiteSubmit": {
+    "message": "Įtraukti svetainę į užblokuotų svetainių sąrašą"
+  },
+  "ebx_addAnotherSiteCancel": {
+    "message": "Atšaukti svetainės įtraukimą į užblokuotų svetainių sąrašą."
+  },
+  "ebx_RemoveItem": {
+    "message": "Šalinti"
+  },
+  "ebx_duplicateBlockedSite": {
+    "message": "Ši svetainė jau yra užblokuotų svetainių sąraše"
+  },
+  "ebx_editorEnableAnnouncementTitle": {
+    "message": "Sveiki! Čia – „Office“ naršyklės plėtinys."
+  },
+  "ebx_editorEnableAnnouncementText": {
+    "message": "„Office“ naršyklės plėtinys leidžia peržiūrėti, redaguoti ir kurti „Office“ failus naršyklėje. Jame taip pat yra redaktoriaus rašymo įrankis, kuris leidžia atlikti rašybos, gramatikos ir stiliaus patikrinimus, kai įvedate tekstą daugumoje svetainių."
+  },
+  "ebx_editorEnableAnnouncementSettings": {
+    "message": "Eiti į redaktoriaus parametrus"
+  },
+  "ebx_feedbackSendTo": {
+    "message": "Redaktorius pasiekiamas kaip „Microsoft“ vidinė peržiūra. Atsiliepimus ir klaidas siųskite adresu "
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "AppName": {
+    "message": "Office"
+  },
+  "AppShortName": {
+    "message": "Office"
+  },
+  "AppNameEdge": {
+    "message": "Office બ્રાઉઝર એક્સ્ટેંશન"
+  },
+  "AppFolderName": {
+    "message": "Office એક્સ્ટેન્શન"
+  },
+  "AppDescription": {
+    "message": "તમારા બ્રાઉઝરમાં Office દસ્તાવેજોને જુઓ, સંપાદિત કરો અને બનાવો."
+  },
+  "AppLongDescription": {
+    "message": "Chrome માટે બનાવેલ – Office ને ઇન્સ્ટોલ કર્યા વિના Word, Excel, PowerPoint, OneNote અને Sway Online નો ઉપયોગ કરો.\r\n\r\nવિશ્વાસ સાથે બનાવો – પૂર્ણ ફિડેલિટીમાં તમારા વિચારોને વ્યક્ત કરવા માટે પરિચિત સ્વરૂપણ અને લેઆઉટ વિકલ્પોનો ઉપયોગ કરો.\r\n\r\nસફરમાં કાર્ય કરો – ગમે-ત્યાંથી તમારી ફાઇલો મેળવો, OneDrive અને OneDrive for Business સાથેના સંકલન બદલ આભાર.\r\n\r\nએપ્લિકેશનને ઇન્સ્ટોલ કરીને, તમે આ નિયમો અને શરતોથી સંમત થાઓ છો: http://aka.ms/officechromeextensionterms\r\n\r\nગોપનીયતા નીતિ: http://aka.ms/privacy\r\n"
+  },
+  "AppLongDescriptionEdge": {
+    "message": "Office બ્રાઉઝર એક્સ્ટેંશન એ Microsoft Edge ટૂલબાર પર આયકન મૂકે છે જે તમને તમારી Office ફાઇલો પર સીધી ઍક્સેસ આપે છે, પછી ભલે તે ઑનલાઇન સંગ્રહિત હોય અથવા તમારા કંપ્યુટર પર સંગ્રહિત હોય.\r\n\r\nOffice વેબ એક્સ્ટેંશન એ OneDrive for Business અને OneDrive માં સંગ્રહિત ફાઇલોને ખોલી શકે છે.\r\n\r\nતમે Office ને ઇન્સ્ટોલ કરવાની જરૂર વગર Word, Excel, PowerPoint, OneNote, અને Sway ની સુવિધાઓ સીધા જ તમારા બ્રાઉઝરમાં મેળવી શકો છો.\r\n\r\nએપ્લિકેશન ઇન્સ્ટોલ કરીને, તમે આ નિયમો અને શરતોથી સંમત થાઓ છો: \r\n\r\n"
+  },
+  "AppTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "BrowseToOpenLabel": {
+    "message": "અપલોડ કરો અને ખોલો..."
+  },
+  "UploadToOneDriveLabel": {
+    "message": "OneDrive ને અપલોડ કરો"
+  },
+  "UploadToOneDriveBusinessLabel": {
+    "message": "OneDrive for Business ને અપલોડ કરો"
+  },
+  "AppListLabel": {
+    "message": "વેબ એપ્લિકેશન્સ"
+  },
+  "RecentDocsLabel": {
+    "message": "તાજેતરના"
+  },
+  "CreateDocsMessageLabel": {
+    "message": "તાજેતરમાં જોયેલા કોઈ દસ્તાવેજો નથી."
+  },
+  "DocumentsNotFoundMessageLabel": {
+    "message": "અમે આ સમયે તમારા તાજેતરના દસ્તાવેજોની સૂચી મેળવી શકતા નથી."
+  },
+  "LoadingRecentsLabel": {
+    "message": "લોડ થઈ રહ્યું છે..."
+  },
+  "CreateNewLabel": {
+    "message": "નવું"
+  },
+  "OfflineLabel": {
+    "message": "તમે ઑફલાઇન છો. કૃપયા Chrome માટે Office બ્રાઉઝર એક્સ્ટેન્શનનો ઉપયોગ કરવા માટે ફરીથી કનેક્ટ કરો."
+  },
+  "OpenDocumentLabel": {
+    "message": "ખોલો"
+  },
+  "AccountLabel": {
+    "message": "ખાતું"
+  },
+  "UsernameLabel": {
+    "message": "સાઇન ઇન કરેલ નથી"
+  },
+  "SettingsLabel": {
+    "message": "સેટિંગ્સ"
+  },
+  "ExcelAppName": {
+    "message": "Excel"
+  },
+  "ExcelOnlineAppName": {
+    "message": "Excel"
+  },
+  "OneDriveAppName": {
+    "message": "OneDrive"
+  },
+  "SharePointAppName": {
+    "message": "SharePoint"
+  },
+  "SharePointSiteAppName": {
+    "message": "SharePoint"
+  },
+  "OutlookAppName": {
+    "message": "Outlook"
+  },
+  "TeamsAppName": {
+    "message": "Teams"
+  },
+  "OneDriveFilesLabel": {
+    "message": "OneDrive થી"
+  },
+  "O365FilesLabel": {
+    "message": "OneDrive for Business થી"
+  },
+  "OneNoteAppName": {
+    "message": "OneNote"
+  },
+  "OneNoteOnlineAppName": {
+    "message": "OneNote"
+  },
+  "PowerPointAppName": {
+    "message": "PowerPoint"
+  },
+  "PowerPointOnlineAppName": {
+    "message": "PowerPoint"
+  },
+  "SignInLabel": {
+    "message": "સાઇન ઇન કરો"
+  },
+  "SignInMSALabel": {
+    "message": "એક Microsoft ખાતા સાથે સાઇન ઇન કરો"
+  },
+  "SignInO365Label": {
+    "message": "એક કાર્ય અથવા શાળા ખાતા સાથે સાઇન ઇન કરો"
+  },
+  "SignOutLabel": {
+    "message": "સાઇન આઉટ કરો"
+  },
+  "CreateAccountLabel": {
+    "message": "ખાતું બનાવો"
+  },
+  "SwayAppName": {
+    "message": "Sway"
+  },
+  "TelemetrySettingLabel": {
+    "message": "અમારા ઉત્પાદનોને બહેતર બનાવવામાં અમારી મદદ કરવા માટે સ્વયંચાલિત રૂપે ડેટા મોકલો."
+  },
+  "WebRedirectSettingLabel": {
+    "message": "Office થી બ્રાઉઝરમાં સીધી Office ફાઇલો ખોલો."
+  },
+  "MoreFilesLabel": {
+    "message": "વધુ દસ્તાવેજો"
+  },
+  "WordAppName": {
+    "message": "Word"
+  },
+  "WordOnlineAppName": {
+    "message": "Word"
+  },
+  "SignInHeaderLabel": {
+    "message": "તમે તમારી ફાઇલોને ક્યાં સાચવવા માંગો છો?"
+  },
+  "NextLabel": {
+    "message": "સાઇન ઇન કરો"
+  },
+  "CopyrightLabel": {
+    "message": "Microsoft Corporation 2015"
+  },
+  "FileTypeErrorMessage": {
+    "message": "ફાઇલ પ્રકાર સમર્થિત નથી. કૃપયા Word, Excel અથવા PowerPoint દસ્તાવેજ પસંદ કરો."
+  },
+  "FeedbackCommentPlaceholder": {
+    "message": "કૃપયા તમારા દસ્તાવેજમાં લખો"
+  },
+  "FeedbackDontLike": {
+    "message": "મને કંઈક પસંદ નથી"
+  },
+  "FeedbackOverall": {
+    "message": "તમારી પાસે કયા પ્રકારનો પ્રતિસાદ છે?"
+  },
+  "FeedbackTitle": {
+    "message": "પ્રતિક્રિયા મોકલો"
+  },
+  "FeedbackLike": {
+    "message": "મને કંઈક પસંદ છે"
+  },
+  "FeedbackPrivacyStatement": {
+    "message": "ગોપનીયતા વિધાન"
+  },
+  "FeedbackSubmit": {
+    "message": "સબમિટ કરો"
+  },
+  "FeedbackSuggestion": {
+    "message": "મારી પાસે એક સૂચન છે"
+  },
+  "FeedbackWhatLike": {
+    "message": "તમને શું ગમ્યું હતું?"
+  },
+  "FeedbackWhatDontLike": {
+    "message": "તમે શું ગમ્યું નહોતું?"
+  },
+  "FeedbackWhatSuggest": {
+    "message": "તમે શું સૂચવો છો?"
+  },
+  "NotificationFileAccess": {
+    "message": "જો તમે Chrome માં ફાઇલોને ખેંચવા અને છોડવા માંગો છો, તો Chrome એક્સ્ટેન્શન સેટિંગ્સમાં, \"ફાઇલ URL ની ઍક્સેસની પરવાનગી આપો\" ચેકબૉક્સ પસંદ કરો."
+  },
+  "NotificationFileMaxSizeByteLimitReached": {
+    "message": "આકારને કારણે Office બ્રાઉઝર એક્સ્ટેન્શન તમારા દસ્તાવેજને ખોલવામાં અસમર્થ છે.  કૃપયા દસ્તાવેજને ખોલવા માટે તેને સીધું જ OneDrive પર અપલોડ કરો."
+  },
+  "NotificationFileUploadFailureGeneric": {
+    "message": "ક્ષમા કરશો, અમે તમારી ફાઇલને ખોલવામાં અસમર્થ હતાં."
+  },
+  "NotificationFileUploadFailureServer": {
+    "message": "ક્ષમા કરશો, અમે તમારી ફાઇલને ખોલવામાં અસમર્થ હતાં.  કૃપયા પછીથી ફરી પ્રયાસ કરો."
+  },
+  "NotificationFileUploadFailureUnsupportedMedia": {
+    "message": "ક્ષમા કરશો, અમે તમારી ફાઇલને ખોલવામાં અસમર્થ હતાં.  કૃપયા Word, Excel અથવા PowerPoint સાથે બનાવેલી કોઈ ફાઇલ પસંદ કરો"
+  },
+  "NotificationFileUploadInProgress": {
+    "message": "અમે વર્તમાનમાં તમારા દસ્તાવેજ(દસ્તાવેજો)ને અપલોડ કરી રહ્યાં છે."
+  },
+  "NotificationSetDefault": {
+    "message": "ફાઇલો એપ્લિકેશનમાં, Office સાથે ખોલવા માટે બે આંગળીઓથી દસ્તાવેજોને ટૅપ કરો."
+  },
+  "NotificationAutoSaveToOneDrive": {
+    "message": "અમે તમારી OneDrive પર \"Office એક્સ્ટેન્શન\" ફોલ્ડરમાં તમારી ફાઇલ સાચવી છે."
+  },
+  "NotificationAutoSaveToSharePoint": {
+    "message": "અમે તમારી ફાઇલને તમારા OneDrive for Business પર \"Office એક્સ્ટેન્શન\" ફોલ્ડરમાં સાચવી છે."
+  },
+  "NotificationAutoSaveButton": {
+    "message": "આ ફરીથી દેખાડશો નહીં"
+  },
+  "NotificationNotSignedIn": {
+    "message": "વેબ પર Office માં ફાઇલોને જોવા અને સંપાદિત કરવા માટે એક્સ્ટેન્શનમાં સાઇન ઇન કરો."
+  },
+  "NotificationUnsupportedFileType": {
+    "message": "Word, Excel અથવા PowerPoint સાથે બનાવેલ ફાઇલ પસંદ કરો."
+  },
+  "NotificationInvalidSubscription": {
+    "message": "તમારી Office 365 સદસ્યતાની સમયસીમા સમાપ્ત થઈ ગઈ હોઈ શકે છે અથવા તો તેમાં OneDrive for Business સામેલ હોઈ શકતું નથી. તમારી સદસ્યતાને તપાસો અથવા તેના બદલે Microsoft ખાતા વડે લૉગ ઇન કરો."
+  },
+  "NotificationWebDocRedirect": {
+    "message": "Office એક્સટેન્શન તમારા દસ્તાવેજને બ્રાઉઝરમાં ખોલી રહ્યું છે"
+  },
+  "NotificationWebDocRedirectButton": {
+    "message": "આ ફરીથી દેખાડશો નહીં"
+  },
+  "OfficeOnlineAppName": {
+    "message": "Office"
+  },
+  "ShareMessage": {
+    "message": "શેર કરો"
+  },
+  "SharePermissionsTooltip": {
+    "message": "તમને શેર કરવાની અનુમતિ નથી"
+  },
+  "SharePermissionsErrorMessage": {
+    "message": "અનુમતિ આવશ્યક છે"
+  },
+  "SupportPageLabel": {
+    "message": "લૉગ ઇન કરવામાં મદદ જોઈએ છે?"
+  },
+  "MyAccountLabel": {
+    "message": "મારું ખાતું જુઓ"
+  },
+  "EditorSpellingToggleLabel": {
+    "message": "જોડણી"
+  },
+  "EditorGrammarToggleLabel": {
+    "message": "વ્યાકરણ"
+  },
+  "EditorRefinementsToggleLabel": {
+    "message": "શુદ્ધતા"
+  },
+  "DisableEditorOnThisSiteLabel": {
+    "message": "$host$ પર સંપાદકને અક્ષમ કરો",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EnableEditorOnThisSiteLabel": {
+    "message": "$host$ પર સંપાદકને સક્ષમ કરો",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsDisabledOnThisSiteLabel": {
+    "message": "સંપાદક વર્તમાનમાં $host$ પર અક્ષમ નથી",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsBlockedOnThisSiteLabel": {
+    "message": "સંપાદક વર્તમાનમાં $host$ પર સમર્થિત નથી",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorPreviewLabel": {
+    "message": "(પૂર્વાવલોકન)"
+  },
+  "ebx_appName": {
+    "message": "બ્રાઉઝરમાંનું સંપાદક"
+  },
+  "ebx_appShortName": {
+    "message": "સંપાદક"
+  },
+  "ebx_appDescription": {
+    "message": "મોટાભાગની વેબસાઇટ્સ પર જેમ તમે લખતા જાવ તેમ તમારા બ્રાઉઝરની અંદર જોડણી, વ્યાકરણ અને શૈલી ચકાસણીની સુવિધા મેળવો."
+  },
+  "ebx_appDescriptionWithOffice": {
+    "message": "બ્રાઉઝરની અંદર Office ફાઇલોને જુઓ, તેને સંપાદિત કરો તથા બનાવો અને મોટાભાગની વેબસાઇટ્સ પર જેમ તમે લખતા જાવ તેમ જોડણી, વ્યાકરણ અને શૈલી ચકાસણીની સુવિધા મેળવો."
+  },
+  "ebx_appLongDescription": {
+    "message": "સંપાદક એ તમારો લેખન સહાયક છે - સંપાદક જોડણી, વ્યાકરણ અને શૈલી સંબંધી સમસ્યા માટે અનુક્રમે લાલ, વાદળી અથવા સોનેરી રંગથી રેખાંકિત કરીને સમસ્યાઓને ચિહ્નિત કરે છે. રેખાંકિત શબ્દ ઉપર હૉવર કરો અને પછી તમને જોઈતું સૂચન પસંદ કરો અથવા ભૂલ અને તેને સુધારવા વિશે વધુ જાણો.\r\n\r\nઆત્મવિશ્વાસથી બનાવો - સંપાદક Office 365 સબ્સ્ક્રાઇબર્સ માટે ઉન્નત અશુદ્ધિ તપાસ પ્રદાન કરે છે. પડદા પાછળ, સમજદાર સેવાઓ જોડણી, વ્યાકરણ અને શૈલી સબંઘી સમસ્યાઓને ઓળખે છે.\r\n\r\nએપ્લિકેશન ઇન્સ્ટોલ કરીને, તમે આ નિયમો અને શરતોથી સંમત થાઓ છો: https://aka.ms/editorchromeextensionterms\r\n\r\nગોપનીયતા નીતિ: https://aka.ms/privacy\r\n"
+  },
+  "ebx_appLongDescriptionEdge": {
+    "message": "સંપાદક Microsoft Edge ટૂલબાર પર આઇકૉન મૂકે છે જે પ્રગત અશુદ્ધિ તપાસને સક્ષમ કરે છે.\r\n\r\nએપ્લિકેશન ઇન્સ્ટોલ કરીને, તમે આ નિયમો અને શરતોથી સંમત થાઓ છો: \r\n\r\n"
+  },
+  "ebx_appTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office Online software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "ebx_copyrightLabel": {
+    "message": "Microsoft Corporation 2019"
+  },
+  "ebx_office365": {
+    "message": "Office 365"
+  },
+  "ebx_optionsPageTitle": {
+    "message": "સંપાદક સેટિંગ્સ"
+  },
+  "ebx_settings": {
+    "message": "સેટિંગ્સ"
+  },
+  "ebx_proofingLanguage": {
+    "message": "અશુદ્ધિ તપાસની ભાષા"
+  },
+  "ebx_proofingLanguagePlaceHolder": {
+    "message": "અશુદ્ધિ તપાસની ભાષા પસંદ કરો"
+  },
+  "ebx_saveButtonCaption": {
+    "message": "સાચવો"
+  },
+  "ebx_cancelButtonCaption": {
+    "message": "રદ કરો"
+  },
+  "ebx_userExcludedUrlsTextBoxCaption": {
+    "message": "તમે નીચે સૂચીબદ્ધ કરેલી સાઇટ પર પ્રૂફિંગ અક્ષમ કર્યું છે. સંવેદનશીલ સામગ્ર્રી ધરાવતી અથવા ધીમી ગતિથી ચાલતી વધારાની સાઇટ પર ઍડિટર કદાચ સ્વત: અક્ષમ થઈ શકે છે."
+  },
+  "ebx_userBlockedSites": {
+    "message": "અવરોધિત સાઇટ"
+  },
+  "ebx_userExcludedUrlsErrorCaption": {
+    "message": "$પંક્તિ$ પંક્તિ પરની \"$url$\" અમાન્ય.",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "https://microsoft.com"
+      },
+      "line": {
+        "content": "$2",
+        "example": "123"
+      }
+    }
+  },
+  "ebx_userExcludedUrlErrorCaption": {
+    "message": "અમાન્ય URL"
+  },
+  "ebx_showSpellingAndGrammarToggleCaption": {
+    "message": "જોડણી અને વ્યાકરણ સૂચનો બતાવો"
+  },
+  "ebx_showSynonymsToggleCaption": {
+    "message": "જોડણીના સૂચનો પર સમાનાર્થી શબ્દો બતાવો"
+  },
+  "ebx_comingSoonTooltipTitle": {
+    "message": "ટૂંક સમયમાં આવે છે"
+  },
+  "ebx_changeAllCommandLabel": {
+    "message": "બધી બદલો"
+  },
+  "ebx_changeSettingsCommandLabel": {
+    "message": "સંપાદક સેટિંગ્સ..."
+  },
+  "ebx_moreButtonArialLabel": {
+    "message": "વધુ આદેશો"
+  },
+  "ebx_ignoreAllButtonLabel": {
+    "message": "બધાને અવગણો"
+  },
+  "ebx_suggestionMoreActionsArialLabel": {
+    "message": "વધુ ક્રિયાઓ"
+  },
+  "ebx_brandText": {
+    "message": "Microsoft Editor"
+  },
+  "ebx_brandTextArialLabel": {
+    "message": "Microsoft Editor લૉગો"
+  },
+  "ebx_brandTextTooltipTitle": {
+    "message": "Office દ્વારા સંચાલિત અશુદ્ધિ તપાસ"
+  },
+  "ebx_brandTextBrandName": {
+    "message": "Office"
+  },
+  "ebx_showSynonyms": {
+    "message": "સમાનાર્થીઓ બતાવો"
+  },
+  "ebx_hideSynonyms": {
+    "message": "સમાનાર્થીઓ છુપાવો"
+  },
+  "ebx_ariaReplaceWith": {
+    "message": "આનાથી બદલો"
+  },
+  "ebx_deleteRepeatedWord": {
+    "message": "[પુનરાવર્તિત શબ્દ હટાવો]"
+  },
+  "ebx_asInSynonyms": {
+    "message": "આ રૂપમાં"
+  },
+  "ebx_goPremiumLine": {
+    "message": "સંપાદકના પ્રગત લેખન સૂચનો અજમાવી જુઓ."
+  },
+  "ebx_goPremiumLinkText": {
+    "message": "Premium અજમાવો"
+  },
+  "ebx_checkSpelling": {
+    "message": "જોડણી તપાસો"
+  },
+  "ebx_checkGrammar": {
+    "message": "વ્યાકરણ તપાસો"
+  },
+  "ebx_checkForRefinements": {
+    "message": "સૂક્ષ્મ ભેદ માટે તપાસો"
+  },
+  "ebx_addAnotherSite": {
+    "message": "અન્ય સાઇટ ઍડ કરો"
+  },
+  "ebx_goPremiumExplained": {
+    "message": "બધી Office 365 એપમાં સંપાદકના આગળ પડતાં લેખનના વિચારો, OneDrive પર 1 TB જેટલું સંગ્રહણ, અને પ્રીમિયમ સુવિધાઓ મેળવો."
+  },
+  "ebx_addAnotherSiteAriaLabel": {
+    "message": "અન્ય સાઇટ પર બ્લૉક ઍડિટર"
+  },
+  "ebx_addAnotherSiteSubmit": {
+    "message": "સાઇટને અવરોધિત સાઇટની સૂચીમાં ઍડ કરો"
+  },
+  "ebx_addAnotherSiteCancel": {
+    "message": "સાઇટને અવરોધિત સાઇટની સૂચીમાં ઍડ કરવાનું રદ કરો."
+  },
+  "ebx_RemoveItem": {
+    "message": "કાઢી નાંખો"
+  },
+  "ebx_duplicateBlockedSite": {
+    "message": "આ સાઇટ પહેલેથી અવરોધિત સાઇટની સૂચીમાં છે"
+  },
+  "ebx_editorEnableAnnouncementTitle": {
+    "message": "Office બ્રાઉઝર એક્સ્ટેંશનમાં આપનું સ્વાગત છે"
+  },
+  "ebx_editorEnableAnnouncementText": {
+    "message": "Office બ્રાઉઝર એક્સ્ટેંશન તમને બ્રાઉઝરની અંદર Office ફાઇલોને જોવાની, તેને સંપાદિત કરવાની તથા બનાવવાની પરવાનગી આપે છે. તેમાં સંપાદક લેખન ઉપકરણ પણ સામેલ છે જે તમે જેમ જેમ મોટાભાગની વેબસાઇટ્સ પર લખો તેમ તેમ જોડણી, વ્યાકરણ અને શૈલી તપાસને સક્ષમ કરે છે."
+  },
+  "ebx_editorEnableAnnouncementSettings": {
+    "message": "સંપાદક સેટિંગ્સ પર જાઓ"
+  },
+  "ebx_feedbackSendTo": {
+    "message": "સંપાદક, Microsoft આંતરિક પૂર્વાવલોકન તરીકે ઉપલબ્ધ છે. કૃપયા પ્રતિસાદ અને બગ્સને આના પર મોકલો "
+  }
+}

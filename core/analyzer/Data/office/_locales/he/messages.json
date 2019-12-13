@@ -1,0 +1,462 @@
+{
+  "AppName": {
+    "message": "Office"
+  },
+  "AppShortName": {
+    "message": "Office"
+  },
+  "AppNameEdge": {
+    "message": "הרחבת דפדפן של Office"
+  },
+  "AppFolderName": {
+    "message": "הרחבת Office"
+  },
+  "AppDescription": {
+    "message": "הצג, ערוך וצור מסמכי Office בדפדפן שלך."
+  },
+  "AppLongDescription": {
+    "message": "תוכנן עבור Chrome – השתמש ב- Word,‏ Excel,‏ PowerPoint‏, OneNote ו- Sway Online מבלי להתקין את Office במחשב.\r\n\r\nצור בביטחון – השתמש באפשרויות עיצוב ופריסת מוכרות כדי לבטא את הרעיונות שלך בנאמנות מלאה.\r\n\r\nעבוד בדרכים – גש לקבצים שלך מכל מקום, הודות לשילוב עם OneDrive ו- OneDrive for Business.\r\n\r\nבעצם התקנת האפליקציה, אתה מסכים לתנאים ולהתניות אלה: http://aka.ms/officechromeextensionterms\r\n\r\nמדיניות פרטיות: http://aka.ms/privacy\r\n"
+  },
+  "AppLongDescriptionEdge": {
+    "message": "הרחבת הדפדפן של Office מציבה סמל בסרגל הכלים של Microsoft Edge שמעניק לך גישה ישירה לקבצי Office שלך, בין שהם מאוחסנים באופן מקוון או במחשב שלך.\r\n\r\nהרחבת האינטרנט של Office יכולה לפתוח קבצים המאוחסנים ב- OneDrive ו- OneDrive for Business.\r\n\r\nתקבל את התכונות של Word‏, Excel‏, PowerPoint‏, OneNote ו- Sway ישירות בדפדפן ללא צורך בהתקנת Office.\r\n\r\nעל-ידי התקנת היישום, אתה מסכים לתנאים ולהתניות אלה: \r\n\r\n"
+  },
+  "AppTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "BrowseToOpenLabel": {
+    "message": "העלאה ופתיחה..."
+  },
+  "UploadToOneDriveLabel": {
+    "message": "העלה אל OneDrive"
+  },
+  "UploadToOneDriveBusinessLabel": {
+    "message": "העלה אל OneDrive for Business"
+  },
+  "AppListLabel": {
+    "message": "יישומי אינטרנט"
+  },
+  "RecentDocsLabel": {
+    "message": "אחרונים"
+  },
+  "CreateDocsMessageLabel": {
+    "message": "אין מסמכים שהוצגו לאחרונה."
+  },
+  "DocumentsNotFoundMessageLabel": {
+    "message": "אין אפשרות לקבל את רשימת המסמכים האחרונים שלך כעת."
+  },
+  "LoadingRecentsLabel": {
+    "message": "טוען..."
+  },
+  "CreateNewLabel": {
+    "message": "חדש"
+  },
+  "OfflineLabel": {
+    "message": "אתה במצב לא מקוון. התחבר מחדש כדי להשתמש בהרחבת הדפדפן של Office עבור Chrome."
+  },
+  "OpenDocumentLabel": {
+    "message": "פתח"
+  },
+  "AccountLabel": {
+    "message": "חשבון"
+  },
+  "UsernameLabel": {
+    "message": "לא נכנס"
+  },
+  "SettingsLabel": {
+    "message": "הגדרות"
+  },
+  "ExcelAppName": {
+    "message": "Excel"
+  },
+  "ExcelOnlineAppName": {
+    "message": "Excel"
+  },
+  "OneDriveAppName": {
+    "message": "OneDrive"
+  },
+  "SharePointAppName": {
+    "message": "SharePoint"
+  },
+  "SharePointSiteAppName": {
+    "message": "SharePoint"
+  },
+  "OutlookAppName": {
+    "message": "Outlook"
+  },
+  "TeamsAppName": {
+    "message": "Teams"
+  },
+  "OneDriveFilesLabel": {
+    "message": "מ- OneDrive"
+  },
+  "O365FilesLabel": {
+    "message": "מ- OneDrive for Business"
+  },
+  "OneNoteAppName": {
+    "message": "OneNote"
+  },
+  "OneNoteOnlineAppName": {
+    "message": "OneNote"
+  },
+  "PowerPointAppName": {
+    "message": "PowerPoint"
+  },
+  "PowerPointOnlineAppName": {
+    "message": "PowerPoint"
+  },
+  "SignInLabel": {
+    "message": "היכנס"
+  },
+  "SignInMSALabel": {
+    "message": "היכנס באמצעות חשבון Microsoft"
+  },
+  "SignInO365Label": {
+    "message": "היכנס באמצעות חשבון בעבודה או בבית ספר"
+  },
+  "SignOutLabel": {
+    "message": "צא"
+  },
+  "CreateAccountLabel": {
+    "message": "צור חשבון"
+  },
+  "SwayAppName": {
+    "message": "Sway"
+  },
+  "TelemetrySettingLabel": {
+    "message": "שלח נתונים באופן אוטומטי כדי לעזור לנו לשפר את המוצרים שלנו."
+  },
+  "WebRedirectSettingLabel": {
+    "message": "פתח קבצי Office ישירות בדפדפן באמצעות Office."
+  },
+  "MoreFilesLabel": {
+    "message": "מסמכים נוספים"
+  },
+  "WordAppName": {
+    "message": "Word"
+  },
+  "WordOnlineAppName": {
+    "message": "Word"
+  },
+  "SignInHeaderLabel": {
+    "message": "היכן ברצונך לשמור את הקבצים שלך?"
+  },
+  "NextLabel": {
+    "message": "היכנס"
+  },
+  "CopyrightLabel": {
+    "message": "Microsoft Corporation 2015"
+  },
+  "FileTypeErrorMessage": {
+    "message": "סוג הקובץ אינו נתמך. בחר מסמך Word,‏ Excel או PowerPoint."
+  },
+  "FeedbackCommentPlaceholder": {
+    "message": "הקלד את ההערה שלך"
+  },
+  "FeedbackDontLike": {
+    "message": "אני לא אוהב משהו"
+  },
+  "FeedbackOverall": {
+    "message": "איזה סוג משוב ברצונך לתת?"
+  },
+  "FeedbackTitle": {
+    "message": "שליחת משוב"
+  },
+  "FeedbackLike": {
+    "message": "אני אוהב משהו"
+  },
+  "FeedbackPrivacyStatement": {
+    "message": "הצהרת פרטיות"
+  },
+  "FeedbackSubmit": {
+    "message": "שלח"
+  },
+  "FeedbackSuggestion": {
+    "message": "יש לי הצעה"
+  },
+  "FeedbackWhatLike": {
+    "message": "מה אהבת?"
+  },
+  "FeedbackWhatDontLike": {
+    "message": "מה לא אהבת?"
+  },
+  "FeedbackWhatSuggest": {
+    "message": "מה אתה מציע?"
+  },
+  "NotificationFileAccess": {
+    "message": "בהגדרות התוספים של Chrome, בחר את תיבת הסימון \"אפשר גישה לכתובות אתרים של קבצים\" אם ברצונך לגרור ולשחרר קבצים לתוך Chrome."
+  },
+  "NotificationFileMaxSizeByteLimitReached": {
+    "message": "הרחבת דפדפן של Office אין אפשרות לפתוח את המסמך שלך עקב הגודל.  נא להעלות ישירות OneDrive כדי לפתוח את המסמך."
+  },
+  "NotificationFileUploadFailureGeneric": {
+    "message": "מצטערים, לא היתה אפשרות לפתוח את הקובץ."
+  },
+  "NotificationFileUploadFailureServer": {
+    "message": "מצטערים, לא היתה אפשרות לפתוח את הקובץ. נסה שוב במועד מאוחר יותר."
+  },
+  "NotificationFileUploadFailureUnsupportedMedia": {
+    "message": "מצטערים, לא היתה אפשרות לפתוח את הקובץ. בחר קובץ שנוצר באמצעות Word‏, Excel או PowerPoint"
+  },
+  "NotificationFileUploadInProgress": {
+    "message": "אנו מעלים כעת את המסמכים שלך."
+  },
+  "NotificationSetDefault": {
+    "message": "באפליקציה 'Files', הקש על מסמכים בשתי אצבעות כדי לפתוח אותם באמצעות Office."
+  },
+  "NotificationAutoSaveToOneDrive": {
+    "message": "שמרנו את הקובץ בתיקיית \"הרחבת Office\" ב- OneDrive שלך."
+  },
+  "NotificationAutoSaveToSharePoint": {
+    "message": "שמרנו את הקובץ בתיקיית \"הרחבת Office\" ב- OneDrive for Business שלך."
+  },
+  "NotificationAutoSaveButton": {
+    "message": "אל תציג זאת שוב"
+  },
+  "NotificationNotSignedIn": {
+    "message": "היכנס אל התוסף כדי להציג ולערוך קבצים ב- Office באינטרנט."
+  },
+  "NotificationUnsupportedFileType": {
+    "message": "בחר קובץ שנוצר באמצעות Word‏, Excel או PowerPoint."
+  },
+  "NotificationInvalidSubscription": {
+    "message": "ייתכן שתוקפו של מנוי Office 365 שלך פג או שהוא אינו כולל את OneDrive for Business. בדוק את המנוי או היכנס באמצעות חשבון Microsoft במקום זאת."
+  },
+  "NotificationWebDocRedirect": {
+    "message": "הרחבת Office פותחת את המסמך בדפדפן"
+  },
+  "NotificationWebDocRedirectButton": {
+    "message": "אל תציג זאת שוב"
+  },
+  "OfficeOnlineAppName": {
+    "message": "Office"
+  },
+  "ShareMessage": {
+    "message": "שתף"
+  },
+  "SharePermissionsTooltip": {
+    "message": "אין לך הרשאה לשתף"
+  },
+  "SharePermissionsErrorMessage": {
+    "message": "נדרשת הרשאה"
+  },
+  "SupportPageLabel": {
+    "message": "זקוק לעזרה בכניסה?"
+  },
+  "MyAccountLabel": {
+    "message": "הצג את החשבון שלי"
+  },
+  "EditorSpellingToggleLabel": {
+    "message": "בדיקת איות"
+  },
+  "EditorGrammarToggleLabel": {
+    "message": "בדיקת דקדוק"
+  },
+  "EditorRefinementsToggleLabel": {
+    "message": "מיקודים"
+  },
+  "DisableEditorOnThisSiteLabel": {
+    "message": "הפוך את 'עורך' ללא זמין ב- $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EnableEditorOnThisSiteLabel": {
+    "message": "הפוך את 'עורך' לזמין ב- $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsDisabledOnThisSiteLabel": {
+    "message": "'עורך' אינו זמין כעת ב- $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorIsBlockedOnThisSiteLabel": {
+    "message": "'עורך' אינו נתמך כעת ב- $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "facebook.com"
+      }
+    }
+  },
+  "EditorPreviewLabel": {
+    "message": "(Preview)"
+  },
+  "ebx_appName": {
+    "message": "עורך בדפדפן"
+  },
+  "ebx_appShortName": {
+    "message": "עורך"
+  },
+  "ebx_appDescription": {
+    "message": "קבל בדיקות איות, דקדוק וסגנון מתוך הדפדפן בעת ההקלדה ברוב אתרי האינטרנט."
+  },
+  "ebx_appDescriptionWithOffice": {
+    "message": "הצג, ערוך וצור קבצי Office בתוך הדפדפן וקבל בדיקות איות, דקדוק וסגנון בעת ההקלדה ברוב אתרי האינטרנט."
+  },
+  "ebx_appLongDescription": {
+    "message": "'עורך' הוא העוזר שלך בכתיבה - 'עורך' מסמן בעיות איות, דקדוק וסגנון בקו תחתון אדום, כחול או זהוב, בהתאמה. רחף מעל המילה המסומנת בקו תחתון ולאחר מכן בחר את ההצעה הרצויה, או קבל מידע נוסף אודות השגיאה והאופן שבו ניתן לתקן אותה.\r\n\r\nצור בביטחון – 'עורך' מספק כלי הגהה משופרים עבור מנויי Office 365. מאחורי הקלעים, שירותים חכמים מזהים בעיות איות, דקדוק וסגנון.\r\n\r\nעל-ידי התקנת היישום, אתה מסכים לתנאים ולהתניות אלה: https://aka.ms/editorchromeextensionterms\r\n\r\nמדיניות פרטיות: https://aka.ms/privacy\r\n"
+  },
+  "ebx_appLongDescriptionEdge": {
+    "message": "עורך הצבת סמל בסרגל הכלים קצה של Microsoft מאפשר מתקדמים הגהה.\r\n\r\nעל-ידי התקנת היישום, אתה מסכים לתנאים ולהתניות אלה: \r\n\r\n"
+  },
+  "ebx_appTermsOfServiceLCA": {
+    "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office Online software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+  },
+  "ebx_copyrightLabel": {
+    "message": "Microsoft Corporation 2019"
+  },
+  "ebx_office365": {
+    "message": "Office 365"
+  },
+  "ebx_optionsPageTitle": {
+    "message": "הגדרות עורך"
+  },
+  "ebx_settings": {
+    "message": "הגדרות"
+  },
+  "ebx_proofingLanguage": {
+    "message": "שפת הגהה"
+  },
+  "ebx_proofingLanguagePlaceHolder": {
+    "message": "בחר שפת הגהה"
+  },
+  "ebx_saveButtonCaption": {
+    "message": "שמור"
+  },
+  "ebx_cancelButtonCaption": {
+    "message": "ביטול"
+  },
+  "ebx_userExcludedUrlsTextBoxCaption": {
+    "message": "הפכת הגהה ללא זמינה באתרים המפורטים להלן. ייתכן ש'עורך' יוגדר באופן אוטומטי כלא זמין באתרים נוספים שכוללים תוכן רגיש או שנטענים באיטיות."
+  },
+  "ebx_userBlockedSites": {
+    "message": "אתרים חסומים"
+  },
+  "ebx_userExcludedUrlsErrorCaption": {
+    "message": "כתובת URL לא חוקית \"$url$\" בשורה $line$.",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "https://microsoft.com"
+      },
+      "line": {
+        "content": "$2",
+        "example": "123"
+      }
+    }
+  },
+  "ebx_userExcludedUrlErrorCaption": {
+    "message": "כתובת URL לא חוקית"
+  },
+  "ebx_showSpellingAndGrammarToggleCaption": {
+    "message": "הצג הצעות איות ודקדוק"
+  },
+  "ebx_showSynonymsToggleCaption": {
+    "message": "הצג מילים נרדפות בהצעות איות"
+  },
+  "ebx_comingSoonTooltipTitle": {
+    "message": "בקרוב"
+  },
+  "ebx_changeAllCommandLabel": {
+    "message": "שנה הכל"
+  },
+  "ebx_changeSettingsCommandLabel": {
+    "message": "הגדרות עורך..."
+  },
+  "ebx_moreButtonArialLabel": {
+    "message": "פקודות נוספות"
+  },
+  "ebx_ignoreAllButtonLabel": {
+    "message": "התעלם מהכל"
+  },
+  "ebx_suggestionMoreActionsArialLabel": {
+    "message": "פעולות נוספות"
+  },
+  "ebx_brandText": {
+    "message": "עורך Microsoft"
+  },
+  "ebx_brandTextArialLabel": {
+    "message": "סמל עורך Microsoft"
+  },
+  "ebx_brandTextTooltipTitle": {
+    "message": "ההגהה מופעלת באמצעות Office"
+  },
+  "ebx_brandTextBrandName": {
+    "message": "Office"
+  },
+  "ebx_showSynonyms": {
+    "message": "הצג מילים נרדפות"
+  },
+  "ebx_hideSynonyms": {
+    "message": "הסתר מילים נרדפות"
+  },
+  "ebx_ariaReplaceWith": {
+    "message": "החלף ב"
+  },
+  "ebx_deleteRepeatedWord": {
+    "message": "[מחק מילה חוזרת]"
+  },
+  "ebx_asInSynonyms": {
+    "message": "כמו ב"
+  },
+  "ebx_goPremiumLine": {
+    "message": "נסה את רעיונות הכתיבה המתקדמים של העורך."
+  },
+  "ebx_goPremiumLinkText": {
+    "message": "עבור ל- Premium"
+  },
+  "ebx_checkSpelling": {
+    "message": "בדוק איות"
+  },
+  "ebx_checkGrammar": {
+    "message": "בדוק דקדוק"
+  },
+  "ebx_checkForRefinements": {
+    "message": "בדוק אם קיימים מיקודים"
+  },
+  "ebx_addAnotherSite": {
+    "message": "הוסף אתר נוסף"
+  },
+  "ebx_goPremiumExplained": {
+    "message": "קבל רעיונות כתיבה מתקדמים של 'עורך', שטח אחסון של ‎1 TB ב- OneDrive ותכונות מתקדמות בכל יישומי Office 365."
+  },
+  "ebx_addAnotherSiteAriaLabel": {
+    "message": "חסום את 'עורך' באתר נוסף"
+  },
+  "ebx_addAnotherSiteSubmit": {
+    "message": "הוסף אתר לרשימת האתרים החסומים"
+  },
+  "ebx_addAnotherSiteCancel": {
+    "message": "בטל את הוספת האתר לרשימת האתרים החסומים."
+  },
+  "ebx_RemoveItem": {
+    "message": "הסר"
+  },
+  "ebx_duplicateBlockedSite": {
+    "message": "אתר זה נמצא כבר ברשימת האתרים החסומים"
+  },
+  "ebx_editorEnableAnnouncementTitle": {
+    "message": "ברוך הבא אל הרחבת הדפדפן של Office"
+  },
+  "ebx_editorEnableAnnouncementText": {
+    "message": "הרחבת הדפדפן של Office מאפשרת לך להציג, לערוך וליצור קבצי Office בתוך הדפדפן. היא כוללת גם את כלי הכתיבה 'עורך' שמאפשר בדיקות איות, דקדוק וסגנון בעת ההקלדה ברוב אתרי האינטרנט."
+  },
+  "ebx_editorEnableAnnouncementSettings": {
+    "message": "עבור להגדרות 'עורך'"
+  },
+  "ebx_feedbackSendTo": {
+    "message": "'עורך' זמין כגירסת Preview פנימית של Microsoft. נא שלח משוב ובאגים אל "
+  }
+}
